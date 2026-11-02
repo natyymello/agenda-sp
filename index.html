@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agenda SP · shows, teatro, samba e forró</title>
+<meta name="description" content="O que está acontecendo em São Paulo: shows, teatro, samba, forró e mais.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F2F3F8;--card:#fff;--ink:#1D1B33;--mute:#62607A;--line:#DAD9E6;--acc:#B5179E;--accink:#fff;
+--h:'Bricolage Grotesque',system-ui,sans-serif;--b:system-ui,-apple-system,'Segoe UI',sans-serif}
+@media(prefers-color-scheme:dark){:root{--bg:#15132A;--card:#1F1D3A;--ink:#EEEDF7;--mute:#A3A1C0;--line:#34315A;--acc:#F15BB5;--accink:#15132A}}
+*{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--b);padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px 48px}
+header{padding:28px 0 12px}
+h1{font:800 clamp(2.2rem,9vw,3.6rem)/.95 var(--h);letter-spacing:-.03em;margin:0}
+.sub{color:var(--mute);margin:8px 0 0}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding:10px 0;z-index:5}
+.search{width:100%;padding:12px 14px;border:1.5px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font:inherit}
+.search:focus-visible,button:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.row{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
+.row::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1.5px solid var(--line);background:transparent;color:var(--ink);padding:6px 14px;border-radius:99px;font:inherit;font-size:.9rem;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--accink);font-weight:600}
+h2{font:500 1.15rem var(--h);margin:26px 0 8px;text-transform:capitalize}
+ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+li{display:grid;grid-template-columns:56px 1fr auto;gap:12px;align-items:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
+.t{font:800 1.05rem var(--h);color:var(--acc);padding-top:2px}
+.n{font-weight:600;line-height:1.25;color:var(--ink);text-decoration:none}
+.n:hover{text-decoration:underline}
+.m{color:var(--mute);font-size:.88rem;margin-top:3px}
+.star{border:0;background:none;font-size:1.4rem;cursor:pointer;color:var(--mute);padding:2px 6px;line-height:1}
+.star[aria-pressed=true]{color:var(--acc)}
+.empty,.foot{color:var(--mute);text-align:center;padding:32px 8px}
+.foot{font-size:.82rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><h1>Agenda SP</h1><p class="sub" id="upd">Carregando eventos…</p></header>
+<div class="bar">
+<input class="search" id="q" type="search" placeholder="Buscar artista, casa ou evento (⌘K)" aria-label="Buscar eventos">
+<div class="row" id="cats" role="group" aria-label="Categoria"></div>
+<div class="row" id="whens" role="group" aria-label="Quando"></div>
+</div>
+<main id="list" aria-live="polite"></main>
+<p class="foot">Horários e preços podem mudar. Confirme sempre no link do evento.</p>
+</div>
+<script>
+const CATS=['Todos','Show','Teatro','Samba','Forró','Música','Dança','Outros'];
+const WHENS=[['all','Todas as datas'],['today','Hoje'],['weekend','Fim de semana'],['week','Próximos 7 dias'],['saved','★ Salvos']];
+const TZ='America/Sao_Paulo';
+let events=[],saved=new Set(),st={cat:'Todos',when:'all',q:''};
+try{saved=new Set(JSON.parse(localStorage.getItem('saved')||'[]'))}catch(e){}
+const persist=()=>{try{localStorage.setItem('saved',JSON.stringify([...saved]))}catch(e){}};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const dayKey=d=>d.toLocaleDateString('sv-SE',{timeZone:TZ});
+const fDay=new Intl.DateTimeFormat('pt-BR',{weekday:'long',day:'numeric',month:'long',timeZone:TZ});
+const fTime=new Intl.DateTimeFormat('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:TZ});
+function chips(el,items,key){
+  el.innerHTML=items.map(i=>{const [v,l]=Array.isArray(i)?i:[i,i];return `<button class="chip" data-v="${esc(v)}" aria-pressed="${st[key]===v}">${esc(l)}</button>`}).join('');
+  el.onclick=e=>{const b=e.target.closest('.chip');if(!b)return;st[key]=b.dataset.v;chips(el,items,key);render()};
+}
+function match(e,now){
+  const d=new Date(e.start);
+  if(st.cat!=='Todos'&&e.category!==st.cat)return false;
+  if(st.q&&!norm([e.title,e.venue,e.category].join(' ')).includes(norm(st.q)))return false;
+  if(st.when==='saved')return saved.has(e.id);
+  if(st.when==='today')return dayKey(d)===dayKey(now);
+  if(st.when==='week')return d-now<7*864e5;
+  if(st.when==='weekend'){const w=new Date(dayKey(d)+'T12:00:00').getDay();return w===0||w===6||(w===5&&+fTime.format(d).slice(0,2)>=18)}
+  return true;
+}
+function render(){
+  const now=new Date(),cut=new Date(now-2*36e5);
+  const list=events.filter(e=>new Date(e.start)>=cut&&match(e,now)).sort((a,b)=>new Date(a.start)-new Date(b.start));
+  if(!list.length){$('#list').innerHTML='<p class="empty">Nenhum evento com esses filtros. Limpe a busca ou escolha outra data.</p>';return}
+  let html='',last='';
+  for(const e of list){
+    const d=new Date(e.start),k=dayKey(d);
+    if(k!==last){html+=(last?'</ul>':'')+`<h2>${esc(fDay.format(d))}</h2><ul>`;last=k}
+    const on=saved.has(e.id);
+    html+=`<li><div class="t">${fTime.format(d).replace(':','h')}</div><div><a class="n" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a><div class="m">${esc(e.venue||'Local a confirmar')} · ${esc(e.category)} · ${esc(e.price||'Consulte')}</div></div><button class="star" data-id="${esc(e.id)}" aria-pressed="${on}" aria-label="${on?'Remover dos salvos':'Salvar evento'}">${on?'★':'☆'}</button></li>`;
+  }
+  $('#list').innerHTML=html+'</ul>';
+}
+$('#list').onclick=e=>{const b=e.target.closest('.star');if(!b)return;const id=b.dataset.id;saved.has(id)?saved.delete(id):saved.add(id);persist();render()};
+$('#q').oninput=e=>{st.q=e.target.value;render()};
+addEventListener('keydown',e=>{if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();$('#q').focus()}});
+chips($('#cats'),CATS,'cat');chips($('#whens'),WHENS,'when');
+fetch('events.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{
+  events=d.events||[];
+  const u=d.updated?new Date(d.updated).toLocaleString('pt-BR',{timeZone:TZ,dateStyle:'short',timeStyle:'short'}):'';
+  $('#upd').textContent=u?`Atualizado em ${u}`:'Eventos em São Paulo';
+  render();
+}).catch(()=>{$('#upd').textContent='';$('#list').innerHTML='<p class="empty">Não foi possível carregar events.json. Publique o site (ou rode um servidor local) em vez de abrir o arquivo direto.</p>'});
+</script>
+</body>
+</html>

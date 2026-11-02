@@ -1,0 +1,6 @@
+{"updated":"2026-10-28T12:00:00Z","events":[
+{"id":"ex1","title":"[Exemplo] Roda de samba","category":"Samba","venue":"Casa de exemplo","start":"2026-11-05T20:00:00-03:00","price":"R$ 40","url":"https://example.com"},
+{"id":"ex2","title":"[Exemplo] Noite de forró","category":"Forró","venue":"Casa de exemplo","start":"2026-11-06T22:00:00-03:00","price":"R$ 30","url":"https://example.com"},
+{"id":"ex3","title":"[Exemplo] Peça de teatro","category":"Teatro","venue":"Teatro de exemplo","start":"2026-11-07T19:00:00-03:00","price":"R$ 60","url":"https://example.com"},
+{"id":"ex4","title":"[Exemplo] Show ao vivo","category":"Show","venue":"Casa de shows de exemplo","start":"2026-11-08T21:00:00-03:00","price":"R$ 90","url":"https://example.com"}
+]}
