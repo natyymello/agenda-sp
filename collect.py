@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 from datetime import datetime, timezone, timedelta
 
 UA = "AgendaSPBot/1.0 (+contato: seu-email@exemplo.com)"  # troque pelo seu contato
-KEYS = {"Samba": ["samba", "pagode"], "Forró": ["forró", "forro"], "Teatro": ["teatro", "peça", "musical", "stand-up"],
+KEYS = {"Samba": ["samba", "pagode"], "Forró": ["forró", "forro"], "Stand-up": ["stand-up", "stand up"], "Infantil": ["infantil", "crianças"], "Teatro": ["teatro", "peça", "musical"],
         "Dança": ["dança", "balé", "ballet"], "Show": ["show", "turnê"], "Música": ["concerto", "orquestra", "jazz", "dj"]}
 
 def allowed(url):
@@ -42,9 +42,11 @@ def parse(src, html):
             price = offers.get("lowPrice") or offers.get("price") if isinstance(offers, dict) else None
             loc = ev.get("location") or {}; venue = loc.get("name") if isinstance(loc, dict) else None
             url = ev.get("url") or src["url"]
+            img = ev.get("image"); img = img[0] if isinstance(img, list) and img else img
+            img = img.get("url") if isinstance(img, dict) else img
             yield {"id": hashlib.md5(f"{title}{start}{venue}".encode()).hexdigest()[:12], "title": title.strip(),
                    "category": guess(title, src.get("category", "Outros")), "venue": venue, "start": start,
-                   "price": f"R$ {price}" if price not in (None, "", 0, "0") else None, "url": url, "source": src["name"]}
+                   "price": f"R$ {price}" if price not in (None, "", 0, "0") else None, "url": url, "end": ev.get("endDate"), "image": img, "source": src["name"]}
 
 def main():
     srcs = [s for s in json.load(open("sources.json"))["sources"] if s.get("enabled")]
