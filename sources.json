@@ -63,6 +63,48 @@
    "url": "https://feverup.com/pt/sao-paulo/eventos-musica",
    "category": "Show",
    "enabled": false
+  },
+  {
+   "name": "Theatro Municipal SP",
+   "url": "https://theatromunicipal.org.br/programacao/",
+   "venue": "Theatro Municipal de São Paulo",
+   "category": "Teatro",
+   "enabled": false
+  },
+  {
+   "name": "Teatro Renaissance",
+   "url": "https://teatrorenaissance.com.br/programacao-e-ingressos/",
+   "venue": "Teatro Renaissance",
+   "category": "Teatro",
+   "enabled": false
+  },
+  {
+   "name": "Teatro Bradesco",
+   "url": "https://teatrobradesco.com.br/",
+   "venue": "Teatro Bradesco",
+   "category": "Teatro",
+   "enabled": false
+  },
+  {
+   "name": "Teatro Oficina (Bileto)",
+   "url": "https://site.bileto.sympla.com.br/teatrooficina/",
+   "venue": "Teatro Oficina",
+   "category": "Teatro",
+   "enabled": false
+  },
+  {
+   "name": "Teatro Sabesp Frei Caneca",
+   "url": "https://teatrosabespfreicaneca.com.br/",
+   "venue": "Teatro Sabesp Frei Caneca",
+   "category": "Teatro",
+   "enabled": false
+  },
+  {
+   "name": "Teatro Santander",
+   "url": "https://www.teatrosantander.com.br/programacao.html",
+   "venue": "Teatro Santander",
+   "category": "Teatro",
+   "enabled": false
   }
  ]
 }
