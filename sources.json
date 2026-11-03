@@ -69,7 +69,8 @@
    "url": "https://theatromunicipal.org.br/programacao/",
    "venue": "Theatro Municipal de São Paulo",
    "category": "Teatro",
-   "enabled": false
+   "enabled": true,
+   "parser": "theatro"
   },
   {
    "name": "Teatro Renaissance",
