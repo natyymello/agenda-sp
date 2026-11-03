@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:41:27.318366+00:00",
+ "updated": "2026-11-03T21:34:14.077534+00:00",
  "events": [
   {
    "id": "421d633ddc3a",
@@ -61,6 +61,18 @@
    "notime": true
   },
   {
+   "id": "fdae30eb0827",
+   "title": "ZÉ IBARRA APRESENTA \"SAUDADE SOLIDÃO\"",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-05T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "a487630117ce",
    "title": "JEAN LUC PONTY PROJECT",
    "category": "Show",
@@ -110,6 +122,17 @@
    "end": "2026-11-07T12:00:00-03:00"
   },
   {
+   "id": "da332c2d85ea",
+   "title": "Opeth",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-06T21:30:00-03:00",
+   "price": null,
+   "url": "https://www.eventim.com.br/opeth",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17afCa",
    "title": "Boca Livre | The Cavern Club",
    "category": "Show",
@@ -131,6 +154,17 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/06/MARO_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "f11ae9a7e9b6",
+   "title": "Daniel",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-07T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/daniel-2/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17F4Zy",
@@ -179,6 +213,18 @@
    "notime": true
   },
   {
+   "id": "d7061c8ee044",
+   "title": "RODRIGO ALARCON APRESENTA \"GUIZO DE CASCAVEL - VOZ E VIOLÃO\"",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-08T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "c286b7044e65",
    "title": "Espetáculo Origens",
    "category": "Dança",
@@ -190,6 +236,17 @@
    "source": "Tokio Marine Hall"
   },
   {
+   "id": "2ed721bb6693",
+   "title": "Luana Zucoloto",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-08T19:30:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/luana-zucoloto/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17FV-E",
    "title": "Pelas Pistas no Sampa Sky",
    "category": "Teatro",
@@ -199,6 +256,18 @@
    "url": "https://www.ticketmaster.com.br/event/pelas-pistas-no-sampa-sky",
    "image": "https://s1.ticketm.net/dam/c/6f4/e1c4766b-fa7f-4fb4-a539-6638fd7856f4_106171_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "19c27a6af73b",
+   "title": "ELAINE GUIMARÃES APRESENTA \"NAS TRILHAS DE GAL - UMA HOMENAGEM A GAL COSTA\"",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-10T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17aFOs",
@@ -248,6 +317,29 @@
    "notime": true
   },
   {
+   "id": "3a39dd951a94",
+   "title": "MARINA AQUINO ACÚSTICO NO BONA",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-12T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "e7c721b74594",
+   "title": "Hayley Williams",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-12T20:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17avup",
    "title": "Blitz | The Cavern Club",
    "category": "Show",
@@ -282,6 +374,17 @@
    "notime": true
   },
   {
+   "id": "5a65019e949d",
+   "title": "Hayley Williams",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-13T20:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/hayley-williams/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17avuN",
    "title": "Blitz | The Cavern Club",
    "category": "Show",
@@ -314,6 +417,17 @@
    "url": "https://www.ticketmaster.com.br/event/guilherme-arantes-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=GuilhermeA",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/09/destaque_st_guia.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "c2318b143a75",
+   "title": "Gustavo Mioto",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-14T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/gustavo-mioto-2/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17aF-0",
@@ -384,6 +498,29 @@
    "notime": true
   },
   {
+   "id": "de68b7d3e2a8",
+   "title": "OTTO ACÚSTICO",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-18T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "ad4741deb824",
+   "title": "Ca7riel & Paco Amoroso",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-18T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17kKFI",
    "title": "CA7RIEL & Paco Amoroso: Free Spirits World Tour - São Paulo",
    "category": "Show",
@@ -392,6 +529,29 @@
    "price": null,
    "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
    "image": "https://s1.ticketm.net/dam/a/6e5/ce33d894-56be-4c01-aa83-5bea7ddd46e5_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
+  },
+  {
+   "id": "1d7b4a971274",
+   "title": "OTTO ACÚSTICO",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-19T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "ZFIMVHtnMZ17ap1d",
+   "title": "14 Bis | Data Extra | The Cavern Club",
+   "category": "Show",
+   "venue": "The Cavern Club",
+   "start": "2026-11-20T00:30:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/14-bis-data-extra-the-cavern-club",
+   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
    "source": "Ticketmaster SP"
   },
   {
@@ -475,6 +635,17 @@
    "source": "Tokio Marine Hall"
   },
   {
+   "id": "b949b7aa6f44",
+   "title": "Caetano Veloso",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-21T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/caetano-veloso/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17aA08",
    "title": "Lets Groove | The Cavern Club",
    "category": "Show",
@@ -495,6 +666,17 @@
    "url": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
    "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "0f7662464988",
+   "title": "New Order",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-23T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/new-order-2/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17FyjO",
@@ -530,6 +712,29 @@
    "image": null,
    "source": "Planilha manual",
    "notime": true
+  },
+  {
+   "id": "3fe5472723f1",
+   "title": "MOSQUITO",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-25T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "52c03386464e",
+   "title": "New Order",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-25T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/new-order",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17FJC_",
@@ -649,6 +854,29 @@
    "notime": true
   },
   {
+   "id": "6cfbfef32611",
+   "title": "MARTINS VOZ E VIOLÃO",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-28T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "d58151592b62",
+   "title": "Babymetal",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-28T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/babymetal/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17Fgpb",
    "title": "GIPSY KINGS® by Diego Baliardo | Suhai Music Hall",
    "category": "Show",
@@ -672,6 +900,18 @@
    "notime": true
   },
   {
+   "id": "122e3a7448b2",
+   "title": "JUCA NOVAES NO BONA",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-11-29T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "ZFIMVHtnMZ17aeOF",
    "title": "School of Rock Higienopolis Rock 101 Pop Rock Hits| The Cavern Club",
    "category": "Teatro",
@@ -681,6 +921,17 @@
    "url": "https://www.ticketmaster.com.br/event/school-of-rock-higienopolis-rock-101-pop-rock-hits-the-cavern-club",
    "image": "https://s1.ticketm.net/dam/a/38f/a3101cd8-58e6-4a2e-aa98-b889e704738f_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "249bd1e279e5",
+   "title": "REGGAE LIVE STATION",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-11-29T18:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ef49b10cdc39",
@@ -730,6 +981,18 @@
    "notime": true
   },
   {
+   "id": "781b0c64df90",
+   "title": "TIAGO NACARATO COM O SHOW “SEGREDO DOS DEUSES”- PRÉVIA EXCLUSIVA DO ÁLBUM “MANHÃ\"",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-12-04T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "c1ed1ed85cfc",
    "title": "Nina Oliveira",
    "category": "Forró",
@@ -752,6 +1015,17 @@
    "image": null,
    "source": "Planilha manual",
    "notime": true
+  },
+  {
+   "id": "e255c78cfd17",
+   "title": "Mauricio Manieri Classics",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-12-06T18:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticket360.com.br/evento/33543/ingressos-para-mauricio-manieri-classics-tour-inesquecivel",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "3eda231e4b8a",
@@ -778,6 +1052,18 @@
    "notime": true
   },
   {
+   "id": "d8ab0801ce06",
+   "title": "TÓ BRANDILEONE",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-12-12T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "ZFIMVHtnMZ17FoA8",
    "title": "Djavan: 50 Anos Só Sucessos - São Paulo",
    "category": "Música",
@@ -799,6 +1085,29 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/VANESSA-MORENO_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "7b7971fe1910",
+   "title": "AMARINA NO BONA",
+   "category": "Show",
+   "venue": "Bona Casa Musica",
+   "start": "2026-12-13T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.bona.art.br/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "2b9394309906",
+   "title": "Renato Albani",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-12-13T19:30:00-03:00",
+   "price": null,
+   "url": "https://ingressodigital.com/evento/21638/renato-albani-salve-se-quem-puder",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17F3pb",
@@ -870,6 +1179,17 @@
    "source": "Tokio Marine Hall"
   },
   {
+   "id": "d4c4d20f4356",
+   "title": "Carol Biazin",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-12-20T20:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/carol-biazin/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17av0J",
    "title": "Gato Galactico - Especial de Natal | Tokio Marine Hall",
    "category": "Teatro",
@@ -879,6 +1199,17 @@
    "url": "https://www.ticketmaster.com.br/event/gato-galactico-especial-de-natal-tokio-marine-hall",
    "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "1ce73e58561c",
+   "title": "Livinho",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2026-12-23T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/livinho/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "095e1fb55f1e",
@@ -891,6 +1222,28 @@
    "image": null,
    "source": "Planilha manual",
    "notime": true
+  },
+  {
+   "id": "5a76bd588ae4",
+   "title": "Gravação de DVD Rick & Renner Pra Sempre",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-01-21T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/gravacao-de-dvd-rick-renner-pra-sempre/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
+   "id": "b2381364c0e5",
+   "title": "Baco Exu do Blues",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-01-22T23:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/baco-exu-do-blues-4/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "060acd23e310",
@@ -925,6 +1278,28 @@
    "url": "https://www.ticketmaster.com.br/event/vg-freya-skye-data-extra",
    "image": "https://s1.ticketm.net/dam/a/bd1/4bf9a435-fa2b-4157-a4c9-add083e81bd1_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "55782687e972",
+   "title": "Simone Mendes",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-01-29T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/simone-mendes-2/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
+   "id": "ac5002067e9b",
+   "title": "The Jacksons",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-01-30T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/the-jacksons/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17apqz",
@@ -972,6 +1347,17 @@
    "notime": true
   },
   {
+   "id": "6d695d4d3e79",
+   "title": "MOTIONLESS IN WHITE",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-03-05T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticket360.com.br/evento/34390/ingressos-para-motionless-in-white-the-come-to-latin-america-tour",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "c9f30290e72f",
    "title": "Oswaldo Montenegro",
    "category": "Show",
@@ -981,6 +1367,17 @@
    "url": "https://www.ticketmaster.com.br/event/oswaldo-montenegro-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=Oswaldo",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/09/destaque_st_oswaldo.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "633606ce0388",
+   "title": "ARNALDO ANTUNES E ADRIANA CALCANHOTTO",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-03-06T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/arnaldo-antunes-e-adriana-calcanhoto/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17a3uZ",
@@ -1072,6 +1469,17 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "29270b3d773a",
+   "title": "Jungle",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-03-30T21:30:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/jungle/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "5eb774753d5f",
    "title": "ERICK BRIAN",
    "category": "Show",
@@ -1106,6 +1514,17 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "27d6887c70d1",
+   "title": "Pixies",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-04-09T21:30:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/pixies/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "e0a9222344d3",
    "title": "Ana Gabriel",
    "category": "Show",
@@ -1115,6 +1534,17 @@
    "url": "https://www.ticketmaster.com.br/event/ana-gabriel-sao-paulo?utm_source=SITE_TMH&utm_campaign=AnaGabriel",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/10/destaque_st_AnaGabr27.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "2d8ea49b20be",
+   "title": "Slash",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-04-14T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.eventim.com.br/artist/slash/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17aFJk",
@@ -1183,6 +1613,17 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "e76a25d43115",
+   "title": "Hilary Duff",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-08-13T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/hilary-duff/",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "ZFIMVHtnMZ17aabU",
    "title": "Hilary Duff: the lucky me tour",
    "category": "Show",
@@ -1192,6 +1633,17 @@
    "url": "https://www.ticketmaster.com.br/event/vg-hilary-duff",
    "image": "https://s1.ticketm.net/dam/a/79d/8bcf830c-6388-4fad-b488-75ade6e3179d_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "ea25bfd46009",
+   "title": "Hilary Duff",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-08-14T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/vg-hilary-duff-data-extra",
+   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17aobV",
