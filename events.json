@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:13:11.893229+00:00",
+ "updated": "2026-11-03T18:41:27.318366+00:00",
  "events": [
   {
    "id": "421d633ddc3a",
@@ -110,17 +110,6 @@
    "end": "2026-11-07T12:00:00-03:00"
   },
   {
-   "id": "da332c2d85ea",
-   "title": "Opeth",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-06T21:30:00-03:00",
-   "price": null,
-   "url": "https://www.eventim.com.br/opeth",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17afCa",
    "title": "Boca Livre | The Cavern Club",
    "category": "Show",
@@ -142,17 +131,6 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/06/MARO_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
-  },
-  {
-   "id": "f11ae9a7e9b6",
-   "title": "Daniel",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-07T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/daniel-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17F4Zy",
@@ -212,17 +190,6 @@
    "source": "Tokio Marine Hall"
   },
   {
-   "id": "2ed721bb6693",
-   "title": "Luana Zucoloto",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-08T19:30:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/luana-zucoloto/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17FV-E",
    "title": "Pelas Pistas no Sampa Sky",
    "category": "Teatro",
@@ -245,6 +212,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "747b7bc2c72c",
+   "title": "Marina Lima – Aniversário de 15 Anos do Cine Joia",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-11-11T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "7da7a1ad1eff",
    "title": "Quarteto convida Heloisa Fernandes",
    "category": "Música",
@@ -257,15 +236,16 @@
    "notime": true
   },
   {
-   "id": "e7c721b74594",
-   "title": "Hayley Williams",
+   "id": "afd1b8a77b3b",
+   "title": "CACHORRO GRANDE",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-12T20:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2026-11-12T12:00:00-03:00",
    "price": null,
-   "url": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17avup",
@@ -302,17 +282,6 @@
    "notime": true
   },
   {
-   "id": "5a65019e949d",
-   "title": "Hayley Williams",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-13T20:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/hayley-williams/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17avuN",
    "title": "Blitz | The Cavern Club",
    "category": "Show",
@@ -347,17 +316,6 @@
    "source": "Tokio Marine Hall"
   },
   {
-   "id": "c2318b143a75",
-   "title": "Gustavo Mioto",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-14T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/gustavo-mioto-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17aF-0",
    "title": "Guilherme Arantes | Tokio Marine Hall",
    "category": "Show",
@@ -367,6 +325,18 @@
    "url": "https://www.ticketmaster.com.br/event/guilherme-arantes-tokio-marine-hall",
    "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "ca913afac03a",
+   "title": "TY SEGALL",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-11-15T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "03ab712099e3",
@@ -402,15 +372,16 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "ad4741deb824",
-   "title": "Ca7riel & Paco Amoroso",
+   "id": "f4b814a3e957",
+   "title": "Luedji Luna",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-18T21:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2026-11-18T12:00:00-03:00",
    "price": null,
-   "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17kKFI",
@@ -470,6 +441,18 @@
    "notime": true
   },
   {
+   "id": "ce3cbcf82614",
+   "title": "SIX SEX Apresenta: Ultra",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-11-21T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "ZFIMVHtnMZ17FI73",
    "title": "Best Of Blues And Rock",
    "category": "Show",
@@ -492,17 +475,6 @@
    "source": "Tokio Marine Hall"
   },
   {
-   "id": "b949b7aa6f44",
-   "title": "Caetano Veloso",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-21T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/caetano-veloso/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17aA08",
    "title": "Lets Groove | The Cavern Club",
    "category": "Show",
@@ -523,17 +495,6 @@
    "url": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
    "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "0f7662464988",
-   "title": "New Order",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-23T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/new-order-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17FyjO",
@@ -559,15 +520,16 @@
    "notime": true
   },
   {
-   "id": "52c03386464e",
-   "title": "New Order",
+   "id": "18a6207dad49",
+   "title": "LOYLE CARNER",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-25T22:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2026-11-24T12:00:00-03:00",
    "price": null,
-   "url": "https://www.ticketmaster.com.br/event/new-order",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17FJC_",
@@ -593,6 +555,18 @@
    "notime": true
   },
   {
+   "id": "050719e3adfe",
+   "title": "TRICKY",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-11-26T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "69e38db76c69",
    "title": "Ópera Os Pescadores de Pérolas, de Georges Bizet",
    "category": "Música",
@@ -604,6 +578,18 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2026-12-06T12:00:00-03:00"
+  },
+  {
+   "id": "74065b663824",
+   "title": "BNegão & Black Mantra – Especial Gerson King Combo",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-11-27T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "b94b3ec5adb1",
@@ -651,15 +637,16 @@
    "notime": true
   },
   {
-   "id": "d58151592b62",
-   "title": "Babymetal",
+   "id": "d1e54cbb3e8d",
+   "title": "FEBRE90’S",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-28T21:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2026-11-28T12:00:00-03:00",
    "price": null,
-   "url": "https://www.espacounimed.com.br/show/babymetal/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17Fgpb",
@@ -673,6 +660,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "358adecf8777",
+   "title": "Aterciopelados",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-11-29T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "ZFIMVHtnMZ17aeOF",
    "title": "School of Rock Higienopolis Rock 101 Pop Rock Hits| The Cavern Club",
    "category": "Teatro",
@@ -684,15 +683,16 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "249bd1e279e5",
-   "title": "REGGAE LIVE STATION",
+   "id": "ef49b10cdc39",
+   "title": "Smerz e Model/Actriz",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-29T18:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2026-12-02T12:00:00-03:00",
    "price": null,
-   "url": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17FMQv",
@@ -718,6 +718,18 @@
    "notime": true
   },
   {
+   "id": "97bcd8c0d0f9",
+   "title": "Nation of Language e Mannequin Puss",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-12-04T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "c1ed1ed85cfc",
    "title": "Nina Oliveira",
    "category": "Forró",
@@ -730,15 +742,28 @@
    "notime": true
   },
   {
-   "id": "e255c78cfd17",
-   "title": "Mauricio Manieri Classics",
+   "id": "a2e620dc1e70",
+   "title": "HEYOON",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-12-06T18:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2026-12-06T12:00:00-03:00",
    "price": null,
-   "url": "https://www.ticket360.com.br/evento/33543/ingressos-para-mauricio-manieri-classics-tour-inesquecivel",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "3eda231e4b8a",
+   "title": "MATO SECO",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-12-11T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "972eb2f536e5",
@@ -776,17 +801,6 @@
    "notime": true
   },
   {
-   "id": "2b9394309906",
-   "title": "Renato Albani",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-12-13T19:30:00-03:00",
-   "price": null,
-   "url": "https://ingressodigital.com/evento/21638/renato-albani-salve-se-quem-puder",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17F3pb",
    "title": "Djavan: 50 Anos Só Sucessos - São Paulo",
    "category": "Música",
@@ -796,6 +810,18 @@
    "url": "https://www.ticketmaster.com.br/event/pre-venda-bb-djavan-50-anos-so-sucessos-sao-paulo-13",
    "image": "https://s1.ticketm.net/dam/a/52a/ee9889b6-3eaf-4457-93cd-f311c0d6b52a_1802351_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "3dfe05eea7c3",
+   "title": "DESORDEN PÚBLICO & OBMJ",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-12-17T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17afeZ",
@@ -809,6 +835,30 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "e18095e30898",
+   "title": "Yaima",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-12-19T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
+   "id": "3a5cd9d9fbbc",
+   "title": "supercombo",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2026-12-20T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
+  },
+  {
    "id": "84c8c56abbc5",
    "title": "Gato Galáctico",
    "category": "Show",
@@ -818,17 +868,6 @@
    "url": "https://www.ticketmaster.com.br/event/gato-galactico-especial-de-natal-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=GatoGal",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/08/destaque_st_gatoDez.jpg",
    "source": "Tokio Marine Hall"
-  },
-  {
-   "id": "d4c4d20f4356",
-   "title": "Carol Biazin",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-12-20T20:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/carol-biazin/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17av0J",
@@ -842,26 +881,28 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "1ce73e58561c",
-   "title": "Livinho",
+   "id": "095e1fb55f1e",
+   "title": "irma",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-12-23T21:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2027-01-08T12:00:00-03:00",
    "price": null,
-   "url": "https://www.espacounimed.com.br/show/livinho/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
-   "id": "b2381364c0e5",
-   "title": "Baco Exu do Blues",
+   "id": "060acd23e310",
+   "title": "SAINT LEVANT",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-01-22T23:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2027-01-27T12:00:00-03:00",
    "price": null,
-   "url": "https://www.espacounimed.com.br/show/baco-exu-do-blues-4/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17aaZ7",
@@ -884,28 +925,6 @@
    "url": "https://www.ticketmaster.com.br/event/vg-freya-skye-data-extra",
    "image": "https://s1.ticketm.net/dam/a/bd1/4bf9a435-fa2b-4157-a4c9-add083e81bd1_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "55782687e972",
-   "title": "Simone Mendes",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-01-29T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/simone-mendes-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "ac5002067e9b",
-   "title": "The Jacksons",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-01-30T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/the-jacksons/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17apqz",
@@ -941,15 +960,16 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "6d695d4d3e79",
-   "title": "MOTIONLESS IN WHITE",
+   "id": "a25027dbf2c6",
+   "title": "Buffalo Tom",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-03-05T22:00:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2027-02-27T12:00:00-03:00",
    "price": null,
-   "url": "https://www.ticket360.com.br/evento/34390/ingressos-para-motionless-in-white-the-come-to-latin-america-tour",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "c9f30290e72f",
@@ -961,17 +981,6 @@
    "url": "https://www.ticketmaster.com.br/event/oswaldo-montenegro-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=Oswaldo",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/09/destaque_st_oswaldo.jpg",
    "source": "Tokio Marine Hall"
-  },
-  {
-   "id": "633606ce0388",
-   "title": "ARNALDO ANTUNES E ADRIANA CALCANHOTTO",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-03-06T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/arnaldo-antunes-e-adriana-calcanhoto/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17a3uZ",
@@ -1005,6 +1014,18 @@
    "url": "https://www.ticketmaster.com.br/event/u2",
    "image": "https://s1.ticketm.net/dam/a/e91/b548f1f2-bcac-4f28-b165-1d06fdc8be91_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "cf80de932f1c",
+   "title": "Gang of Four",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2027-03-13T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "798aee5b6762",
@@ -1051,15 +1072,16 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "29270b3d773a",
-   "title": "Jungle",
+   "id": "5eb774753d5f",
+   "title": "ERICK BRIAN",
    "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-03-30T21:30:00-03:00",
+   "venue": "Cine Joia",
+   "start": "2027-04-02T12:00:00-03:00",
    "price": null,
-   "url": "https://www.espacounimed.com.br/show/jungle/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17F3_b",
@@ -1084,17 +1106,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "27d6887c70d1",
-   "title": "Pixies",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-04-09T21:30:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/pixies/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "e0a9222344d3",
    "title": "Ana Gabriel",
    "category": "Show",
@@ -1104,17 +1115,6 @@
    "url": "https://www.ticketmaster.com.br/event/ana-gabriel-sao-paulo?utm_source=SITE_TMH&utm_campaign=AnaGabriel",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/10/destaque_st_AnaGabr27.jpg",
    "source": "Tokio Marine Hall"
-  },
-  {
-   "id": "2d8ea49b20be",
-   "title": "Slash",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-04-14T21:00:00-03:00",
-   "price": null,
-   "url": "https://www.eventim.com.br/artist/slash/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17aFJk",
@@ -1183,17 +1183,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "e76a25d43115",
-   "title": "Hilary Duff",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-08-13T21:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/hilary-duff/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17aabU",
    "title": "Hilary Duff: the lucky me tour",
    "category": "Show",
@@ -1205,17 +1194,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "ea25bfd46009",
-   "title": "Hilary Duff",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-08-14T21:00:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/vg-hilary-duff-data-extra",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "ZFIMVHtnMZ17aobV",
    "title": "Hilary Duff: the lucky me tour",
    "category": "Show",
@@ -1225,6 +1203,18 @@
    "url": "https://www.ticketmaster.com.br/event/vg-hilary-duff-data-extra",
    "image": "https://s1.ticketm.net/dam/a/79d/8bcf830c-6388-4fad-b488-75ade6e3179d_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "3a2729ba7baf",
+   "title": "Toy Dolls",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2027-09-18T12:00:00-03:00",
+   "price": null,
+   "url": "https://www.cinejoia.com.br/agenda/",
+   "image": null,
+   "source": "Planilha manual",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZauQt",
