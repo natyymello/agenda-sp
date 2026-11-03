@@ -3,101 +3,139 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Agenda SP · shows, teatro, samba e forró</title>
-<meta name="description" content="O que está acontecendo em São Paulo: shows, teatro, samba, forró e mais.">
+<title>Agenda SP · o que está em cartaz</title>
+<meta name="description" content="Teatro, shows, samba, forró e mais em São Paulo.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#F2F3F8;--card:#fff;--ink:#1D1B33;--mute:#62607A;--line:#DAD9E6;--acc:#B5179E;--accink:#fff;
---h:'Bricolage Grotesque',system-ui,sans-serif;--b:system-ui,-apple-system,'Segoe UI',sans-serif}
-@media(prefers-color-scheme:dark){:root{--bg:#15132A;--card:#1F1D3A;--ink:#EEEDF7;--mute:#A3A1C0;--line:#34315A;--acc:#F15BB5;--accink:#15132A}}
-*{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--b);padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}
-.wrap{max-width:760px;margin:0 auto;padding:0 16px 48px}
-header{padding:28px 0 12px}
-h1{font:800 clamp(2.2rem,9vw,3.6rem)/.95 var(--h);letter-spacing:-.03em;margin:0}
-.sub{color:var(--mute);margin:8px 0 0}
-.bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding:10px 0;z-index:5}
-.search{width:100%;padding:12px 14px;border:1.5px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font:inherit}
-.search:focus-visible,button:focus-visible,a:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
-.row{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
-.row::-webkit-scrollbar{display:none}
-.chip{flex:none;border:1.5px solid var(--line);background:transparent;color:var(--ink);padding:6px 14px;border-radius:99px;font:inherit;font-size:.9rem;cursor:pointer}
-.chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--accink);font-weight:600}
-h2{font:500 1.15rem var(--h);margin:26px 0 8px;text-transform:capitalize}
-ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
-li{display:grid;grid-template-columns:56px 1fr auto;gap:12px;align-items:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
-.t{font:800 1.05rem var(--h);color:var(--acc);padding-top:2px}
-.n{font-weight:600;line-height:1.25;color:var(--ink);text-decoration:none}
-.n:hover{text-decoration:underline}
-.m{color:var(--mute);font-size:.88rem;margin-top:3px}
-.star{border:0;background:none;font-size:1.4rem;cursor:pointer;color:var(--mute);padding:2px 6px;line-height:1}
-.star[aria-pressed=true]{color:var(--acc)}
-.empty,.foot{color:var(--mute);text-align:center;padding:32px 8px}
-.foot{font-size:.82rem}
+:root{--bg:#EDE5D5;--ink:#161616;--paper:#F6F0E3;--rust:#B5432C;--green:#2F5D3F;--gold:#E0B050;--wine:#8E2D2D;--mute:#6B6354;
+--h:'Archivo',system-ui,sans-serif;--m:'IBM Plex Mono',ui-monospace,monospace}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 var(--h);padding-bottom:env(safe-area-inset-bottom,0px)}
+button,input{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--rust);outline-offset:2px}
+.top{border-bottom:3px solid var(--ink);padding:env(safe-area-inset-top,0px) 16px 0}
+.nav{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:12px 0}
+.logo{font:900 1.6rem/1 var(--h);letter-spacing:-.02em;margin-right:auto}
+.logo i{font-style:normal;color:var(--rust)}
+.seg{display:flex;border:2px solid var(--ink)}
+.seg button{border:0;background:none;padding:9px 14px;font-weight:900;letter-spacing:.04em;text-transform:uppercase;font-size:.8rem;cursor:pointer}
+.seg button+button{border-left:2px solid var(--ink)}
+.seg button[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+.find{border:2px solid var(--ink);display:flex;align-items:center;padding:0 10px;background:var(--paper)}
+.find input{border:0;background:none;padding:9px 6px;width:150px;outline:0}
+.find:focus-within{outline:3px solid var(--rust);outline-offset:2px}
+.find kbd{font:500 .72rem var(--m);border:1px solid var(--ink);padding:1px 5px}
+main{max-width:1180px;margin:0 auto;padding:16px 16px 56px}
+.wins{display:flex;gap:8px;flex-wrap:wrap}
+.wins button{border:2px solid var(--ink);background:none;padding:6px 12px;cursor:pointer;text-align:center;line-height:1.15;font-weight:900;font-size:.75rem;text-transform:uppercase;letter-spacing:.04em}
+.wins button b{display:block;font:500 .78rem var(--m)}
+.wins button[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+.mosaic{display:flex;height:210px;margin:22px 0 8px;border:2px solid var(--ink);overflow:hidden}
+.blk{flex:1 1 0;min-width:84px;border:0;border-right:2px solid var(--ink);text-align:left;padding:14px;cursor:pointer;display:flex;flex-direction:column;justify-content:space-between;color:#fff;font-weight:900;text-transform:uppercase;line-height:.95;overflow:hidden}
+.blk:last-child{border-right:0}
+.blk span{letter-spacing:-.02em;overflow-wrap:anywhere}
+.blk b{font:500 .9rem var(--m)}
+.blk[aria-pressed=true]{box-shadow:inset 0 0 0 5px var(--ink)}
+[data-c=teatro]{--c:var(--ink)}[data-c=show]{--c:var(--rust)}[data-c=samba]{--c:var(--green)}[data-c=forro]{--c:var(--gold)}
+[data-c=musica]{--c:#E9DFC9}[data-c=danca]{--c:var(--wine)}[data-c=standup]{--c:#2C4A6B}[data-c=infantil]{--c:#D98A3D}[data-c=outros]{--c:#4A443A}
+.blk{background:var(--c)}[data-c=forro].blk,[data-c=musica].blk{color:var(--ink)}
+.meta{font:400 .78rem var(--m);color:var(--mute);text-align:right;margin:0 0 6px}
+.sec h2{font:900 clamp(2rem,6vw,3.4rem)/1 var(--h);letter-spacing:-.03em;text-transform:uppercase;margin:34px 0 12px;display:flex;align-items:baseline;gap:14px;border-bottom:6px solid var(--c);padding-bottom:8px}
+.sec h2 small{font:400 .8rem var(--m);letter-spacing:0;text-transform:none;color:var(--mute)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:16px}
+.card{border:2px solid var(--ink);background:var(--paper);display:flex;flex-direction:column}
+.poster{position:relative;aspect-ratio:4/3;background:var(--c);border-bottom:2px solid var(--ink);overflow:hidden;color:#fff;padding:36px 12px 12px;font:900 1.4rem/1 var(--h);text-transform:uppercase;letter-spacing:-.02em;overflow-wrap:anywhere}
+[data-c=forro] .poster,[data-c=musica] .poster{color:var(--ink)}
+.poster img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.tag{position:absolute;top:8px;left:8px;z-index:2;background:var(--ink);color:var(--bg);font:900 .68rem var(--h);letter-spacing:.06em;padding:3px 8px;text-transform:uppercase}
+.add{position:absolute;top:8px;right:8px;z-index:2;width:34px;height:34px;border:2px solid var(--ink);background:var(--paper);font:700 1.3rem/1 var(--h);cursor:pointer}
+.add[aria-pressed=true]{background:var(--rust);color:#fff}
+.body{padding:12px;display:grid;gap:6px;align-content:start}
+.body a{font:700 1.08rem/1.2 var(--h);color:var(--ink);text-decoration:none}
+.body a:hover{text-decoration:underline}
+.body p{margin:0;font:400 .8rem var(--m);color:var(--mute)}
+.pills{display:flex;gap:6px;flex-wrap:wrap}
+.pills span{border:1px solid var(--ink);padding:2px 7px;font:500 .72rem var(--m);text-transform:uppercase}
+.empty{padding:48px 8px;text-align:center;font:500 .9rem var(--m);color:var(--mute)}
+.foot{font:400 .75rem var(--m);color:var(--mute);text-align:center;padding:0 16px 32px}
+@media(max-width:560px){.mosaic{height:auto;flex-wrap:wrap}.blk{flex:1 1 45%;min-height:90px}.grid{grid-template-columns:repeat(2,1fr);gap:10px}.poster{font-size:1.05rem}}
 </style>
 </head>
 <body>
-<div class="wrap">
-<header><h1>Agenda SP</h1><p class="sub" id="upd">Carregando eventos…</p></header>
-<div class="bar">
-<input class="search" id="q" type="search" placeholder="Buscar artista, casa ou evento (⌘K)" aria-label="Buscar eventos">
-<div class="row" id="cats" role="group" aria-label="Categoria"></div>
-<div class="row" id="whens" role="group" aria-label="Quando"></div>
-</div>
-<main id="list" aria-live="polite"></main>
-<p class="foot">Horários e preços podem mudar. Confirme sempre no link do evento.</p>
-</div>
+<header class="top"><div class="nav">
+<div class="logo">AGENDA <i>SP</i></div>
+<div class="seg" id="tabs"><button data-v="cartaz" aria-pressed="true">Em cartaz</button><button data-v="voce" aria-pressed="false">Salvos</button></div>
+<label class="find"><input id="q" type="search" placeholder="Buscar" aria-label="Buscar eventos"><kbd>⌘K</kbd></label>
+</div></header>
+<main>
+<div class="wins" id="wins"></div>
+<div class="mosaic" id="mosaic"></div>
+<p class="meta" id="meta"></p>
+<div id="secs"></div>
+</main>
+<p class="foot">Horários e preços podem mudar. Confirme no link de cada evento.</p>
 <script>
-const CATS=['Todos','Show','Teatro','Samba','Forró','Música','Dança','Outros'];
-const WHENS=[['all','Todas as datas'],['today','Hoje'],['weekend','Fim de semana'],['week','Próximos 7 dias'],['saved','★ Salvos']];
-const TZ='America/Sao_Paulo';
-let events=[],saved=new Set(),st={cat:'Todos',when:'all',q:''};
+const TZ='America/Sao_Paulo',$=s=>document.querySelector(s);
+const CATS={Teatro:['Teatro','teatro'],Show:['Shows','show'],Samba:['Samba & Choro','samba'],'Forró':['Forró','forro'],'Música':['Música','musica'],'Dança':['Dança','danca'],'Stand-up':['Stand-up','standup'],Infantil:['Infantil','infantil'],Outros:['Outros','outros']};
+const WINS=[['hoje','Hoje',1],['semana','Semana',7],['mes','Mês',30],['tudo','Tudo',9999]];
+let all=[],saved=new Set(),st={win:'semana',cat:null,q:'',tab:'cartaz'};
 try{saved=new Set(JSON.parse(localStorage.getItem('saved')||'[]'))}catch(e){}
 const persist=()=>{try{localStorage.setItem('saved',JSON.stringify([...saved]))}catch(e){}};
-const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
-const dayKey=d=>d.toLocaleDateString('sv-SE',{timeZone:TZ});
-const fDay=new Intl.DateTimeFormat('pt-BR',{weekday:'long',day:'numeric',month:'long',timeZone:TZ});
-const fTime=new Intl.DateTimeFormat('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:TZ});
-function chips(el,items,key){
-  el.innerHTML=items.map(i=>{const [v,l]=Array.isArray(i)?i:[i,i];return `<button class="chip" data-v="${esc(v)}" aria-pressed="${st[key]===v}">${esc(l)}</button>`}).join('');
-  el.onclick=e=>{const b=e.target.closest('.chip');if(!b)return;st[key]=b.dataset.v;chips(el,items,key);render()};
-}
-function match(e,now){
-  const d=new Date(e.start);
-  if(st.cat!=='Todos'&&e.category!==st.cat)return false;
-  if(st.q&&!norm([e.title,e.venue,e.category].join(' ')).includes(norm(st.q)))return false;
-  if(st.when==='saved')return saved.has(e.id);
-  if(st.when==='today')return dayKey(d)===dayKey(now);
-  if(st.when==='week')return d-now<7*864e5;
-  if(st.when==='weekend'){const w=new Date(dayKey(d)+'T12:00:00').getDay();return w===0||w===6||(w===5&&+fTime.format(d).slice(0,2)>=18)}
-  return true;
-}
-function render(){
-  const now=new Date(),cut=new Date(now-2*36e5);
-  const list=events.filter(e=>new Date(e.start)>=cut&&match(e,now)).sort((a,b)=>new Date(a.start)-new Date(b.start));
-  if(!list.length){$('#list').innerHTML='<p class="empty">Nenhum evento com esses filtros. Limpe a busca ou escolha outra data.</p>';return}
-  let html='',last='';
-  for(const e of list){
-    const d=new Date(e.start),k=dayKey(d);
-    if(k!==last){html+=(last?'</ul>':'')+`<h2>${esc(fDay.format(d))}</h2><ul>`;last=k}
-    const on=saved.has(e.id);
-    html+=`<li><div class="t">${fTime.format(d).replace(':','h')}</div><div><a class="n" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a><div class="m">${esc(e.venue||'Local a confirmar')} · ${esc(e.category)} · ${esc(e.price||'Consulte')}</div></div><button class="star" data-id="${esc(e.id)}" aria-pressed="${on}" aria-label="${on?'Remover dos salvos':'Salvar evento'}">${on?'★':'☆'}</button></li>`;
+const dk=d=>d.toLocaleDateString('sv-SE',{timeZone:TZ});
+const fd=d=>d.toLocaleDateString('pt-BR',{day:'numeric',month:'numeric',timeZone:TZ});
+const ft=d=>d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:TZ}).replace(':','h');
+const t0=new Date(dk(new Date())+'T00:00:00-03:00');
+const bounds=k=>[t0,new Date(+t0+WINS.find(w=>w[0]===k)[2]*864e5)];
+function build(events){
+  const m=new Map();
+  for(const e of events){
+    const k=norm(e.title)+'|'+norm(e.venue),s=new Date(e.start),en=new Date(e.end||e.start);
+    if(isNaN(s))continue;
+    const g=m.get(k);
+    if(!g)m.set(k,{id:k,title:e.title,venue:e.venue,cat:CATS[e.category]?e.category:'Outros',price:e.price,url:e.url,image:e.image,age:e.age,from:s,to:en,n:e.sessions||1});
+    else{if(s<g.from)g.from=s;if(en>g.to)g.to=en;g.n+=e.sessions||1;g.price=g.price||e.price;g.image=g.image||e.image}
   }
-  $('#list').innerHTML=html+'</ul>';
+  return [...m.values()].filter(g=>g.to>=t0);
 }
-$('#list').onclick=e=>{const b=e.target.closest('.star');if(!b)return;const id=b.dataset.id;saved.has(id)?saved.delete(id):saved.add(id);persist();render()};
+const inWin=(g,k)=>{const [a,b]=bounds(k);return g.to>=a&&g.from<b};
+const hit=g=>!st.q||norm([g.title,g.venue,CATS[g.cat][0]].join(' ')).includes(norm(st.q));
+function render(){
+  $('#tabs').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===st.tab));
+  $('#wins').style.display=st.tab==='voce'?'none':'';
+  $('#wins').innerHTML=WINS.map(([k,l])=>`<button data-w="${k}" aria-pressed="${st.win===k}">${l}<b>${all.filter(g=>inWin(g,k)).length}</b></button>`).join('');
+  const base=(st.tab==='voce'?all.filter(g=>saved.has(g.id)):all.filter(g=>inWin(g,st.win))).filter(hit);
+  const by={};base.forEach(g=>(by[g.cat]??=[]).push(g));
+  const order=Object.keys(by).sort((a,b)=>by[b].length-by[a].length);
+  $('#mosaic').style.display=order.length?'':'none';
+  $('#mosaic').innerHTML=order.map(c=>{const n=by[c].length,sh=n/base.length;return `<button class="blk" data-c="${CATS[c][1]}" data-k="${esc(c)}" aria-pressed="${st.cat===c}" style="flex-grow:${n}"><span style="font-size:${(1.05+sh*2.6).toFixed(2)}rem">${esc(CATS[c][0])}</span><b>${n}</b></button>`}).join('');
+  $('#meta').textContent=`${base.length} ${st.tab==='voce'?'salvos':'espetáculos'}${stamp?' · dados de '+stamp:''}`;
+  const shown=order.filter(c=>!st.cat||st.cat===c);
+  $('#secs').innerHTML=shown.length?shown.map(c=>`<section class="sec" data-c="${CATS[c][1]}"><h2>${esc(CATS[c][0])}<small>${by[c].length} espetáculos</small></h2><div class="grid">${by[c].sort((a,b)=>a.from-b.from).map(card).join('')}</div></section>`).join(''):`<p class="empty">${st.tab==='voce'?'Você ainda não salvou nada. Toque no + de um evento.':'Nenhum evento nesse período. Tente “Mês” ou “Tudo”, ou limpe a busca.'}</p>`;
+}
+function card(g){
+  const one=g.n===1&&dk(g.from)===dk(g.to);
+  const when=one?`${fd(g.from)} às ${ft(g.from)}`:`${fd(g.from)} a ${fd(g.to)}${g.n>1?` · ${g.n} sessões`:''}`;
+  const on=saved.has(g.id);
+  return `<article class="card"><div class="poster"><span class="tag">${esc(CATS[g.cat][0])}</span><button class="add" data-id="${esc(g.id)}" aria-pressed="${on}" aria-label="${on?'Remover dos salvos':'Salvar'}">${on?'✓':'+'}</button>${g.image?`<img src="${esc(g.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:''}${esc(g.title)}</div><div class="body"><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.title)}</a><p>${esc(g.venue||'Local a confirmar')}</p><p>${when}</p><div class="pills"><span>${esc(g.price||'Consulte')}</span>${g.age?`<span>${esc(g.age)}</span>`:''}</div></div></article>`;
+}
+document.addEventListener('click',e=>{
+  const w=e.target.closest('[data-w]'),b=e.target.closest('.blk'),a=e.target.closest('.add'),t=e.target.closest('#tabs button');
+  if(w)st.win=w.dataset.w;else if(b)st.cat=st.cat===b.dataset.k?null:b.dataset.k;
+  else if(a){const id=a.dataset.id;saved.has(id)?saved.delete(id):saved.add(id);persist()}
+  else if(t){st.tab=t.dataset.v;st.cat=null}else return;
+  render();
+});
 $('#q').oninput=e=>{st.q=e.target.value;render()};
 addEventListener('keydown',e=>{if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();$('#q').focus()}});
-chips($('#cats'),CATS,'cat');chips($('#whens'),WHENS,'when');
+let stamp='';
 fetch('events.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{
-  events=d.events||[];
-  const u=d.updated?new Date(d.updated).toLocaleString('pt-BR',{timeZone:TZ,dateStyle:'short',timeStyle:'short'}):'';
-  $('#upd').textContent=u?`Atualizado em ${u}`:'Eventos em São Paulo';
+  all=build(d.events||[]);
+  if(d.updated)stamp=new Date(d.updated).toLocaleString('pt-BR',{timeZone:TZ,day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}).replace(',','').replace(':','h');
   render();
-}).catch(()=>{$('#upd').textContent='';$('#list').innerHTML='<p class="empty">Não foi possível carregar events.json. Publique o site (ou rode um servidor local) em vez de abrir o arquivo direto.</p>'});
+}).catch(()=>{$('#secs').innerHTML='<p class="empty">Não foi possível carregar events.json. Publique o site ou rode um servidor local.</p>'});
 </script>
 </body>
 </html>
