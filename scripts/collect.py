@@ -80,16 +80,23 @@ def tm(src):
         if page + 1 >= (data.get("page") or {}).get("totalPages", 1): break
 
 def inspect(url):
-    print("robots.txt permite:", allowed(url))
-    html = fetch(url)
+    print("==", url)
+    try:
+        print("  robots.txt permite:", allowed(url))
+        html = fetch(url)
+    except Exception as ex:
+        print("  Falha ao abrir:", ex); return
     blobs = re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', html, re.S | re.I)
     evs = list(parse({"name": "teste", "url": url}, html))
-    print("blocos JSON-LD:", len(blobs), "| eventos reconhecidos:", len(evs))
-    for e in evs[:8]: print(" -", e["start"], "|", e["title"], "|", e["venue"])
-    if not evs: print("Esta página não serve para coleta automática simples.")
+    print("  tamanho:", len(html), "| JSON-LD:", len(blobs), "| eventos reconhecidos:", len(evs), "| __NEXT_DATA__:", "__NEXT_DATA__" in html)
+    for e in evs[:5]: print("   -", e["start"], "|", e["title"], "|", e["venue"])
+
+def inspect_all():
+    for s in json.load(open("sources.json"))["sources"]:
+        if str(s.get("url", "")).startswith("http"): inspect(s["url"])
 
 def main():
-    if len(sys.argv) > 2 and sys.argv[1] == "--inspect": return inspect(sys.argv[2])
+    if len(sys.argv) > 2 and sys.argv[1] == "--inspect": return inspect_all() if sys.argv[2] == "todas" else inspect(sys.argv[2])
     srcs = [s for s in json.load(open("sources.json"))["sources"] if s.get("enabled")]
     found = {}
     for s in srcs:
