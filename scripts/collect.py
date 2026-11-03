@@ -1,9 +1,10 @@
 """Coleta eventos de páginas que publicam dados estruturados (schema.org/Event em JSON-LD).
 Respeita robots.txt. Só usa Python padrão. Edite sources.json para adicionar fontes."""
-import json, os, re, hashlib, sys, urllib.request, urllib.robotparser, urllib.parse
+import json, os, re, hashlib, sys, socket, urllib.request, urllib.robotparser, urllib.parse
 from urllib.parse import urlparse
 from datetime import datetime, timezone, timedelta
 
+socket.setdefaulttimeout(20)  # evita travar em sites lentos
 UA = "AgendaSPBot/1.0 (+contato: seu-email@exemplo.com)"  # troque pelo seu contato
 KEYS = {"Samba": ["samba", "pagode"], "Forró": ["forró", "forro"], "Stand-up": ["stand-up", "stand up"], "Infantil": ["infantil", "crianças"], "Teatro": ["teatro", "peça", "musical"],
         "Dança": ["dança", "balé", "ballet"], "Show": ["show", "turnê"], "Música": ["concerto", "orquestra", "jazz", "dj"]}
