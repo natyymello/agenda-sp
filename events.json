@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T09:48:14.960102+00:00",
+ "updated": "2026-11-03T18:13:11.893229+00:00",
  "events": [
   {
    "id": "421d633ddc3a",
@@ -97,6 +97,19 @@
    "notime": true
   },
   {
+   "id": "0a818449cba7",
+   "title": "Morais e Tchaikovsky",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-11-06T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/morais-e-tchaikovsky/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2026-11-07T12:00:00-03:00"
+  },
+  {
    "id": "da332c2d85ea",
    "title": "Opeth",
    "category": "Show",
@@ -176,6 +189,18 @@
    "notime": true
   },
   {
+   "id": "e335bb06737d",
+   "title": "Palavra em Travessia",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-11-08T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/orquestra-experimental-de-repertorio-palavra-em-travessia/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
    "id": "c286b7044e65",
    "title": "Espetáculo Origens",
    "category": "Dança",
@@ -218,6 +243,18 @@
    "url": "https://www.ticketmaster.com.br/event/humberto-gessinger-the-cavern-club",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "7da7a1ad1eff",
+   "title": "Quarteto convida Heloisa Fernandes",
+   "category": "Música",
+   "venue": "Praça das Artes",
+   "start": "2026-11-12T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/quarteto-convida-heloisa-fernandes/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
   },
   {
    "id": "e7c721b74594",
@@ -544,6 +581,31 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "2f71b763721c",
+   "title": "Quarteto de Cordas – Diálogos: Price, Brahms e Dvořák",
+   "category": "Música",
+   "venue": "Praça das Artes",
+   "start": "2026-11-26T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
+   "id": "69e38db76c69",
+   "title": "Ópera Os Pescadores de Pérolas, de Georges Bizet",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-11-27T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2026-12-06T12:00:00-03:00"
+  },
+  {
    "id": "b94b3ec5adb1",
    "title": "Fagner",
    "category": "Show",
@@ -642,6 +704,18 @@
    "url": "https://www.ticketmaster.com.br/event/daniel-caesar",
    "image": "https://s1.ticketm.net/dam/a/12f/b96760a8-2d4d-4e0b-88ca-21bf2be8b12f_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "6e5b0a658f20",
+   "title": "Natività Del Signore",
+   "category": "Música",
+   "venue": "Praça das Artes",
+   "start": "2026-12-03T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/concerto-nativita-del-signore/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
   },
   {
    "id": "c1ed1ed85cfc",
