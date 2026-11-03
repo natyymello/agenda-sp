@@ -106,6 +106,12 @@
    "venue": "Teatro Santander",
    "category": "Teatro",
    "enabled": false
+  },
+  {
+   "name": "Planilha manual",
+   "type": "sheet",
+   "url": "COLE-AQUI-O-LINK-CSV-DA-PLANILHA",
+   "enabled": false
   }
  ]
 }
