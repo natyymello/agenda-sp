@@ -1,3 +1,6 @@
 {"sources":[
-{"name":"Exemplo (desativada)","url":"https://example.com/agenda","category":"Outros","enabled":false}
+{"name":"Ticketmaster SP","type":"ticketmaster","city":"São Paulo","enabled":true},
+{"name":"Casa de Francisca","url":"COLE-AQUI-A-URL-DA-AGENDA","venue":"Casa de Francisca","category":"Samba","enabled":false},
+{"name":"Teatro Santander","url":"COLE-AQUI-A-URL-DA-AGENDA","venue":"Teatro Santander","category":"Teatro","enabled":false},
+{"name":"Cine Joia","url":"COLE-AQUI-A-URL-DA-AGENDA","venue":"Cine Joia","category":"Show","enabled":false}
 ]}
