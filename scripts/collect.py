@@ -1,6 +1,6 @@
 """Coleta eventos de páginas que publicam dados estruturados (schema.org/Event em JSON-LD).
 Respeita robots.txt. Só usa Python padrão. Edite sources.json para adicionar fontes."""
-import json, os, re, hashlib, sys, socket, urllib.request, urllib.robotparser, urllib.parse
+import json, os, re, hashlib, sys, socket, urllib.error, urllib.request, urllib.robotparser, urllib.parse
 from urllib.parse import urlparse
 from datetime import datetime, timezone, timedelta
 
@@ -10,9 +10,15 @@ KEYS = {"Samba": ["samba", "pagode"], "Forró": ["forró", "forro"], "Stand-up":
         "Dança": ["dança", "balé", "ballet"], "Show": ["show", "turnê"], "Música": ["concerto", "orquestra", "jazz", "dj"]}
 
 def allowed(url):
-    p = urlparse(url); rp = urllib.robotparser.RobotFileParser(f"{p.scheme}://{p.netloc}/robots.txt")
-    try: rp.read(); return rp.can_fetch(UA, url)
-    except Exception: return False
+    p = urlparse(url); rp = urllib.robotparser.RobotFileParser()
+    try:
+        req = urllib.request.Request(f"{p.scheme}://{p.netloc}/robots.txt", headers={"User-Agent": UA})
+        rp.parse(urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "ignore").splitlines())
+    except urllib.error.HTTPError as e:
+        return e.code == 404  # sem robots.txt = sem restrição; outros erros = não arrisca
+    except Exception:
+        return False
+    return rp.can_fetch(UA, url)
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
