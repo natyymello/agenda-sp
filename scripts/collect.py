@@ -86,6 +86,76 @@ def tm(src):
                    "price": price, "url": ev.get("url"), "image": img, "source": src["name"]}
         if page + 1 >= (data.get("page") or {}).get("totalPages", 1): break
 
+SP = timezone(timedelta(hours=-3))
+MESES = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
+
+def soup(html):
+    try: from bs4 import BeautifulSoup
+    except ImportError:
+        import subprocess; subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", "beautifulsoup4"])
+        from bs4 import BeautifulSoup
+    s = BeautifulSoup(html, "html.parser")
+    for x in s(["script", "style", "noscript", "svg"]): x.decompose()
+    return s
+
+def when(day, mon, hh=None, mm=0):
+    """Os sites não mostram o ano: assume a próxima ocorrência da data."""
+    now = datetime.now(SP)
+    d = datetime(now.year, mon, day, 12 if hh is None else hh, mm, tzinfo=SP)
+    if d < now - timedelta(days=2): d = d.replace(year=now.year + 1)
+    return d.isoformat()
+
+def ev(src, title, start, url, image=None, sub="", notime=False):
+    e = {"id": hashlib.md5(f"{title}{start}{src['name']}".encode()).hexdigest()[:12], "title": title,
+         "category": guess(f"{title} {sub}", src.get("category", "Outros")), "venue": src.get("venue"),
+         "start": start, "price": None, "url": url, "image": image, "source": src["name"]}
+    if notime: e["notime"] = True
+    return e
+
+def p_unimed(src, html):
+    for n in range(1, 5):
+        if n > 1:
+            try: html = fetch(src["url"].rstrip("/") + f"/page/{n}/")
+            except Exception: break
+        lis = soup(html).select("ul.shows > li")
+        if not lis: break
+        for li in lis:
+            try:
+                h, d, m = li.select_one("h3"), li.select_one(".day-of-month"), li.select_one(".month")
+                mon = MESES.index(m.get_text(strip=True)[:3].lower()) + 1
+                t = re.search(r"(\d{1,2}):(\d{2})", " ".join(p.get_text() for p in li.select("article p")))
+                a = li.select_one("a.tickets") or h.find("a"); im = li.find("img"); sub = li.select_one(".subtitle")
+                yield ev(src, h.get_text(strip=True), when(int(d.get_text()), mon, int(t[1]) if t else None, int(t[2]) if t else 0),
+                         a["href"] if a else src["url"], im.get("src") if im else None, sub.get_text(strip=True) if sub else "", notime=not t)
+            except Exception: continue
+
+def p_tokio(src, html):
+    for li in soup(html).select("li.filter-shows"):
+        try:
+            parts = [x for x in li.get_text("|", strip=True).split("|") if x and x != "Comprar"]
+            rx = re.compile(r"(\d{1,2}) de (\w+)(?:,? às (\d{1,2})h(\d{2})?)?")
+            dt = next(m for m in (rx.search(x) for x in parts) if m)
+            title = parts[0].title() if parts[0].isupper() else parts[0]
+            sub = parts[1] if len(parts) > 1 and not rx.search(parts[1]) else ""
+            links = [a["href"] for a in li.find_all("a", href=True)]
+            url = next((h for h in links if "tokiomarinehall" not in h), links[0]); im = li.find("img")
+            yield ev(src, title, when(int(dt[1]), MESES.index(dt[2][:3].lower()) + 1, int(dt[3]) if dt[3] else None, int(dt[4] or 0)),
+                     url, im.get("data-lazysrc") if im else None, sub, notime=not dt[3])
+        except Exception: continue
+
+def p_natura(src, html):
+    for c in soup(html).select("div.e-loop-item.eventos"):
+        try:
+            h = c.select_one("h2 a"); txt = c.get_text("|", strip=True).split("|")
+            m = next(x for x in (re.fullmatch(r"(\d{1,2})\.(\d{1,2})", t) for t in txt) if x)
+            btn = c.select_one("a.elementor-button"); im = c.find("img")
+            sub = next((t for t in txt if t not in (h.get_text(strip=True), m[0]) and "ingresso" not in t.lower()), "")
+            yield ev(src, h.get_text(strip=True), when(int(m[1]), int(m[2])), btn["href"] if btn else h["href"],
+                     im.get("src") if im else None, sub, notime=True)
+        except Exception: continue
+
+PARSERS = {"unimed": p_unimed, "tokio": p_tokio, "natura": p_natura}
+
 def inspect(url):
     print("==", url)
     try:
@@ -94,7 +164,8 @@ def inspect(url):
     except Exception as ex:
         print("  Falha ao abrir:", ex); return
     blobs = re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', html, re.S | re.I)
-    evs = list(parse({"name": "teste", "url": url}, html))
+    src = next((x for x in json.load(open("sources.json"))["sources"] if x.get("url") == url), {"name": "teste", "url": url})
+    evs = list(PARSERS[src["parser"]](src, html)) if src.get("parser") else list(parse(src, html))
     print("  tamanho:", len(html), "| JSON-LD:", len(blobs), "| eventos reconhecidos:", len(evs), "| __NEXT_DATA__:", "__NEXT_DATA__" in html)
     for e in evs[:5]: print("   -", e["start"], "|", e["title"], "|", e["venue"])
 
@@ -110,7 +181,7 @@ def main():
         try:
             if s.get("type") == "ticketmaster": items = tm(s)
             elif not allowed(s["url"]): print("robots.txt bloqueia:", s["url"]); continue
-            else: items = parse(s, fetch(s["url"]))
+            else: items = PARSERS[s["parser"]](s, fetch(s["url"])) if s.get("parser") else parse(s, fetch(s["url"]))
             for e in items or []: found[e["id"]] = e
         except Exception as ex: print("Falha em", s["name"], ex, file=sys.stderr)
     if not srcs: sys.exit("Nenhuma fonte ativa em sources.json.")
