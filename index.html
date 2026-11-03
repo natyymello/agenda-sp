@@ -119,7 +119,7 @@ function card(g){
   const one=g.n===1&&dk(g.from)===dk(g.to);
   const when=one?(g.notime?fd(g.from):`${fd(g.from)} às ${ft(g.from)}`):`${fd(g.from)} a ${fd(g.to)}${g.n>1?` · ${g.n} sessões`:''}`;
   const on=saved.has(g.id);
-  return `<article class="card"><div class="poster"><span class="tag">${esc(CATS[g.cat][0])}</span><button class="add" data-id="${esc(g.id)}" aria-pressed="${on}" aria-label="${on?'Remover dos salvos':'Salvar'}">${on?'✓':'+'}</button>${g.image?`<img src="${esc(g.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:''}${esc(g.title)}</div><div class="body"><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.title)}</a><p>${esc(g.venue||'Local a confirmar')}</p><p>${when}</p><div class="pills"><span>${esc(g.price||'Consulte')}</span>${g.age?`<span>${esc(g.age)}</span>`:''}</div></div></article>`;
+  return `<article class="card"><div class="poster"><span class="tag">${esc(CATS[g.cat][0])}</span><button class="add" data-id="${esc(g.id)}" aria-pressed="${on}" aria-label="${on?'Remover dos salvos':'Salvar'}">${on?'✓':'+'}</button>${g.image?`<img src="${esc(g.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:''}${esc(g.title)}</div><div class="body"><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.title)}</a><p>${esc(g.venue||'Local a confirmar')}</p><p>${when}</p>${g.age?`<div class="pills"><span>${esc(g.age)}</span></div>`:''}</div></article>`;
 }
 document.addEventListener('click',e=>{
   const w=e.target.closest('[data-w]'),b=e.target.closest('.blk'),a=e.target.closest('.add'),t=e.target.closest('#tabs button');
