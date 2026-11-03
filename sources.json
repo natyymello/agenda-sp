@@ -1,6 +1,11 @@
 {"sources":[
 {"name":"Ticketmaster SP","type":"ticketmaster","city":"São Paulo","enabled":true},
-{"name":"Casa de Francisca","url":"COLE-AQUI-A-URL-DA-AGENDA","venue":"Casa de Francisca","category":"Samba","enabled":false},
-{"name":"Teatro Santander","url":"COLE-AQUI-A-URL-DA-AGENDA","venue":"Teatro Santander","category":"Teatro","enabled":false},
-{"name":"Cine Joia","url":"COLE-AQUI-A-URL-DA-AGENDA","venue":"Cine Joia","category":"Show","enabled":false}
+{"name":"Espaço Unimed","url":"https://www.espacounimed.com.br/agenda-de-shows/","venue":"Espaço Unimed","category":"Show","enabled":false},
+{"name":"Tokio Marine Hall","url":"https://www.tokiomarinehall.com.br/shows/","venue":"Tokio Marine Hall","category":"Show","enabled":false},
+{"name":"Casa de Francisca","url":"https://casadefrancisca.art.br/novo/programacao","venue":"Casa de Francisca","category":"Samba","enabled":false},
+{"name":"Bona (Eventim)","url":"https://www.eventim.com.br/city/sao-paulo-943/venue/bona-89347/","venue":"Bona","category":"Show","enabled":false},
+{"name":"Casa Natura Musical","url":"https://casanaturamusical.com.br/eventos/","venue":"Casa Natura Musical","category":"Show","enabled":false},
+{"name":"Blue Note SP","url":"https://bluenotesp.com/shows/","venue":"Blue Note SP","category":"Show","enabled":false},
+{"name":"Cine Joia","url":"https://www.cinejoia.com.br/agenda/","venue":"Cine Joia","category":"Show","enabled":false},
+{"name":"Fever Música SP","url":"https://feverup.com/pt/sao-paulo/eventos-musica","category":"Show","enabled":false}
 ]}
