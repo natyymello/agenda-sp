@@ -110,8 +110,8 @@
   {
    "name": "Planilha manual",
    "type": "sheet",
-   "url": "COLE-AQUI-O-LINK-CSV-DA-PLANILHA",
-   "enabled": false
+   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-7IBDmLprF5lFZevi9y8XHb5NesRceq2yq4vDMMoIWUjUsNkstKyw9Yl4I4IOQ6m_q5-lyZMf5_AZ/pub?output=csv",
+   "enabled": true
   }
  ]
 }
