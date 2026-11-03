@@ -170,6 +170,37 @@ def p_theatro(src, html):
             yield e
         except Exception: continue
 
+def sheet(src):
+    """Lê uma planilha do Google publicada como CSV (cadastro manual de eventos)."""
+    import csv, io
+    cats = {"show": "Show", "teatro": "Teatro", "samba": "Samba", "forró": "Forró", "forro": "Forró", "música": "Música", "musica": "Música",
+            "dança": "Dança", "danca": "Dança", "stand-up": "Stand-up", "standup": "Stand-up", "infantil": "Infantil", "outros": "Outros"}
+    def dt(txt, hh=None, mm=0):
+        m = re.fullmatch(r"(\d{1,2})/(\d{1,2})(?:/(\d{2,4}))?", txt) or None
+        if m:
+            d, mo, y = int(m[1]), int(m[2]), m[3]
+        else:
+            m = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", txt)
+            if not m: return None
+            y, mo, d = m[1], int(m[2]), int(m[3])
+        if y:
+            y = int(y) + (2000 if int(y) < 100 else 0)
+            return datetime(y, mo, d, 12 if hh is None else hh, mm, tzinfo=SP).isoformat()
+        return when(d, mo, hh, mm)
+    for r in csv.DictReader(io.StringIO(fetch(src["url"]))):
+        r = {(k or "").strip().lower(): (v or "").strip() for k, v in r.items()}
+        try:
+            title = r.get("titulo")
+            h = re.fullmatch(r"(\d{1,2})[:h](\d{2})?", r.get("hora", ""))
+            start = dt(r.get("data", ""), int(h[1]) if h else None, int(h[2] or 0) if h else 0)
+            if not (title and start): continue
+            e = ev(src, title, start, r.get("link") or "#", r.get("imagem") or None, notime=not h,
+                   end=dt(r["data_fim"]) if r.get("data_fim") else None, price=r.get("preco") or None)
+            e["venue"] = r.get("local") or None
+            e["category"] = cats.get(r.get("categoria", "").lower()) or guess(title, "Outros")
+            yield e
+        except Exception: continue
+
 PARSERS = {"theatro": p_theatro, "unimed": p_unimed, "tokio": p_tokio, "natura": p_natura}
 
 def inspect(url):
@@ -196,6 +227,7 @@ def main():
     for s in srcs:
         try:
             if s.get("type") == "ticketmaster": items = tm(s)
+            elif s.get("type") == "sheet": items = sheet(s)
             elif not allowed(s["url"]): print("robots.txt bloqueia:", s["url"]); continue
             else: items = PARSERS[s["parser"]](s, fetch(s["url"])) if s.get("parser") else parse(s, fetch(s["url"]))
             for e in items or []: found[e["id"]] = e
