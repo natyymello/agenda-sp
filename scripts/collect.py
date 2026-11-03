@@ -105,11 +105,13 @@ def when(day, mon, hh=None, mm=0):
     if d < now - timedelta(days=2): d = d.replace(year=now.year + 1)
     return d.isoformat()
 
-def ev(src, title, start, url, image=None, sub="", notime=False):
+def ev(src, title, start, url, image=None, sub="", notime=False, end=None, price=None):
     e = {"id": hashlib.md5(f"{title}{start}{src['name']}".encode()).hexdigest()[:12], "title": title,
          "category": guess(f"{title} {sub}", src.get("category", "Outros")), "venue": src.get("venue"),
          "start": start, "price": None, "url": url, "image": image, "source": src["name"]}
     if notime: e["notime"] = True
+    if end: e["end"] = end
+    if price: e["price"] = price
     return e
 
 def p_unimed(src, html):
@@ -154,7 +156,21 @@ def p_natura(src, html):
                      im.get("src") if im else None, sub, notime=True)
         except Exception: continue
 
-PARSERS = {"unimed": p_unimed, "tokio": p_tokio, "natura": p_natura}
+def p_theatro(src, html):
+    cats = {"ópera": "Música", "concertos": "Música", "música": "Música", "dança": "Dança", "teatro": "Teatro"}
+    for c in soup(html).select("article.card-evento"):
+        try:
+            t = [x for x in c.get_text("|", strip=True).split("|") if x]
+            ds = [x for x in t if re.fullmatch(r"\d{2}/\d{2}/\d{4}", x)]
+            if not ds or any("cancelado" in x.lower() for x in t): continue
+            iso = lambda x: datetime(int(x[6:]), int(x[3:5]), int(x[:2]), 12, tzinfo=SP).isoformat()
+            e = ev(src, t[2], iso(ds[0]), c.find("a", href=True)["href"], notime=True,
+                   end=iso(ds[-1]) if ds[-1] != ds[0] else None, price="Grátis" if "gratuito" in t[0].lower() else None)
+            e["venue"] = t[-1]; e["category"] = cats.get(t[1].lower()) or guess(t[2], "Teatro")
+            yield e
+        except Exception: continue
+
+PARSERS = {"theatro": p_theatro, "unimed": p_unimed, "tokio": p_tokio, "natura": p_natura}
 
 def inspect(url):
     print("==", url)
@@ -188,7 +204,7 @@ def main():
     if not found: sys.exit("Nenhum evento coletado; mantendo events.json anterior.")
     cut = datetime.now(timezone.utc) - timedelta(hours=3)
     def ok(e):
-        try: d = datetime.fromisoformat(e["start"].replace("Z", "+00:00")); return (d if d.tzinfo else d.replace(tzinfo=timezone(timedelta(hours=-3)))) >= cut
+        try: d = datetime.fromisoformat((e.get("end") or e["start"]).replace("Z", "+00:00")); return (d if d.tzinfo else d.replace(tzinfo=timezone(timedelta(hours=-3)))) >= cut
         except Exception: return False
     out = sorted((e for e in found.values() if ok(e)), key=lambda e: e["start"])
     json.dump({"updated": datetime.now(timezone.utc).isoformat(), "events": out}, open("events.json", "w"), ensure_ascii=False, indent=1)
