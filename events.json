@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-04T00:46:06.653926+00:00",
+ "updated": "2026-11-04T21:41:52.267696+00:00",
  "events": [
-  {
-   "id": "ZFIMVHtnMZ17adCZ",
-   "title": "Nando Viana e Rodrigo Marques | The Cavern Club",
-   "category": "Stand-up",
-   "venue": "The Cavern Club",
-   "start": "2026-11-03T23:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/nando-viana-rodrigo-marques-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
-  },
   {
    "id": "a33d7e4af6e2",
    "title": "LEANDRO CABRAL",
@@ -302,6 +291,18 @@
    "notime": true
   },
   {
+   "id": "122dac8d3244",
+   "title": "Municipal Circula – Balé da Cidade no CEU Cidade Dutra",
+   "category": "Dança",
+   "venue": "Outros",
+   "start": "2026-11-13T12:00:00-03:00",
+   "price": "Grátis",
+   "url": "https://theatromunicipal.org.br/eventos/municipal-circula-no-ceu-cidade-dutra/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
    "id": "5a65019e949d",
    "title": "Hayley Williams",
    "category": "Show",
@@ -490,17 +491,6 @@
    "url": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
    "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "944dbc94f7f2",
-   "title": "Fábio Rabin",
-   "category": "Stand-up",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-21T21:00:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/fabio-rabin-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=FabioRabin",
-   "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/10/destaque_st_Fabio-Rabin.jpg",
-   "source": "Tokio Marine Hall"
   },
   {
    "id": "b949b7aa6f44",
@@ -717,18 +707,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "6e5b0a658f20",
-   "title": "Natività Del Signore",
-   "category": "Música",
-   "venue": "Praça das Artes",
-   "start": "2026-12-03T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/concerto-nativita-del-signore/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
    "id": "c1ed1ed85cfc",
    "title": "Nina Oliveira",
    "category": "Forró",
@@ -861,17 +839,6 @@
    "price": null,
    "url": "https://www.espacounimed.com.br/show/livinho/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/Miniatura_livinho_2026.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "5a76bd588ae4",
-   "title": "Gravação de DVD Rick & Renner Pra Sempre",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-01-21T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/gravacao-de-dvd-rick-renner-pra-sempre/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_RickRenner_.webp",
    "source": "Espaço Unimed"
   },
   {
