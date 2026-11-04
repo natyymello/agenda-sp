@@ -1,18 +1,6 @@
 {
- "updated": "2026-11-03T21:34:14.077534+00:00",
+ "updated": "2026-11-04T00:17:36.621610+00:00",
  "events": [
-  {
-   "id": "421d633ddc3a",
-   "title": "ECHOES PINK FLOYD SÃO PAULO",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-03T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/echoes-pink-floyd-sao-paulo/",
-   "end": "2026-11-03T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Echoes.webp",
-   "source": "Blue Note SP"
-  },
   {
    "id": "ZFIMVHtnMZ17adCZ",
    "title": "Nando Viana e Rodrigo Marques | The Cavern Club",
@@ -120,6 +108,18 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2026-11-07T12:00:00-03:00"
+  },
+  {
+   "id": "ed05292f5b40",
+   "title": "DANCE PARTY COM MARK LAMBERT &#038; BLUE NOTE BIG BAND",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-06T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/dance-party-com-mark-lambert-blue-note-big-band/",
+   "end": "2026-11-06T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/08-Site-Blue-Note-SP-400x480px_BNBigBand.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "da332c2d85ea",
