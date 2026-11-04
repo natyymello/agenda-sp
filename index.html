@@ -74,7 +74,7 @@ main{max-width:1180px;margin:0 auto;padding:16px 16px 56px}
 <p class="meta" id="meta"></p>
 <div id="secs"></div>
 </main>
-<p class="foot">Horários e preços podem mudar. Confirme no link de cada evento.</p>
+<p class="foot">Horários podem mudar. Confirme no link de cada evento.</p>
 <script>
 const TZ='America/Sao_Paulo',$=s=>document.querySelector(s);
 const CATS={Teatro:['Teatro','teatro'],Show:['Shows','show'],Samba:['Samba & Choro','samba'],'Forró':['Forró','forro'],'Música':['Música','musica'],'Dança':['Dança','danca'],'Stand-up':['Stand-up','standup'],Infantil:['Infantil','infantil'],Outros:['Outros','outros']};
@@ -92,7 +92,7 @@ const bounds=k=>[t0,new Date(+t0+WINS.find(w=>w[0]===k)[2]*864e5)];
 function build(events){
   const m=new Map();
   for(const e of events){
-    const k=norm(e.title)+'|'+norm(e.venue),s=new Date(e.start),en=new Date(e.end||e.start);
+    const k=norm(e.title)+'|'+norm(e.venue),s=new Date(e.start),en=new Date(e.end||e.start);if(!e.sessions&&en-s<864e5)en.setTime(+s);
     if(isNaN(s))continue;
     const g=m.get(k);
     if(!g)m.set(k,{id:k,title:e.title,venue:e.venue,cat:CATS[e.category]?e.category:'Outros',price:e.price,url:e.url,image:e.image,age:e.age,notime:e.notime,from:s,to:en,n:e.sessions||1});
