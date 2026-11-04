@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:19:24.620826+00:00",
+ "updated": "2026-11-04T00:26:15.738877+00:00",
  "events": [
   {
    "id": "ZFIMVHtnMZ17adCZ",
@@ -129,7 +129,7 @@
    "start": "2026-11-06T21:30:00-03:00",
    "price": null,
    "url": "https://www.eventim.com.br/opeth",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/01/Miniatura_06.11.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -163,7 +163,7 @@
    "start": "2026-11-07T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/daniel-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/Miniatura_daniel_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -243,7 +243,7 @@
    "start": "2026-11-08T19:30:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/luana-zucoloto/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/Miniatura_luana2_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -336,7 +336,7 @@
    "start": "2026-11-12T20:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/Miniatura_hayley_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -381,7 +381,7 @@
    "start": "2026-11-13T20:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/hayley-williams/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/Miniatura_hayley_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -426,7 +426,7 @@
    "start": "2026-11-14T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/gustavo-mioto-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/Miniatura_gustavomioto2_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -517,7 +517,7 @@
    "start": "2026-11-18T21:00:00-03:00",
    "price": null,
    "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/03/Miniatura_ca7riel.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -642,7 +642,7 @@
    "start": "2026-11-21T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/caetano-veloso/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/EU_MINI_Caetano.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -675,7 +675,7 @@
    "start": "2026-11-23T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/new-order-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/EU_MINI_NewOrder.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -733,7 +733,7 @@
    "start": "2026-11-25T22:00:00-03:00",
    "price": null,
    "url": "https://www.ticketmaster.com.br/event/new-order",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/EU_MINI_NewOrder.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -873,7 +873,7 @@
    "start": "2026-11-28T21:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/babymetal/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/EU_Miniatura_BabyMetal.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -930,7 +930,7 @@
    "start": "2026-11-29T18:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/460x320.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1024,7 +1024,7 @@
    "start": "2026-12-06T18:00:00-03:00",
    "price": null,
    "url": "https://www.ticket360.com.br/evento/33543/ingressos-para-mauricio-manieri-classics-tour-inesquecivel",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/EU_MINI_MM.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1106,7 +1106,7 @@
    "start": "2026-12-13T19:30:00-03:00",
    "price": null,
    "url": "https://ingressodigital.com/evento/21638/renato-albani-salve-se-quem-puder",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/09/SITEEU_Miniatura_Albani_13.12.2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1186,7 +1186,7 @@
    "start": "2026-12-20T20:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/carol-biazin/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/Miniatura_CB_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1208,7 +1208,7 @@
    "start": "2026-12-23T21:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/livinho/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/Miniatura_livinho_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1231,7 +1231,7 @@
    "start": "2027-01-21T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/gravacao-de-dvd-rick-renner-pra-sempre/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_RickRenner_.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1242,7 +1242,7 @@
    "start": "2027-01-22T23:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/baco-exu-do-blues-4/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Baco_27.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1287,7 +1287,7 @@
    "start": "2027-01-29T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/simone-mendes-2/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/@DANIIVALVERDEE-SIMONE-INTIMIDADE-12-460x320.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1298,7 +1298,7 @@
    "start": "2027-01-30T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/the-jacksons/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Jackson_26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1354,7 +1354,7 @@
    "start": "2027-03-05T22:00:00-03:00",
    "price": null,
    "url": "https://www.ticket360.com.br/evento/34390/ingressos-para-motionless-in-white-the-come-to-latin-america-tour",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/SITEEU_Miniatura_Motion_.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1376,7 +1376,7 @@
    "start": "2027-03-06T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/arnaldo-antunes-e-adriana-calcanhoto/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/09/EU_MINI_Arnaldo.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1476,7 +1476,7 @@
    "start": "2027-03-30T21:30:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/jungle/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/05/EU_MINI_Jungle.26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1521,7 +1521,7 @@
    "start": "2027-04-09T21:30:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/pixies/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/Miniatura_Pixxies_2026.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1543,7 +1543,7 @@
    "start": "2027-04-14T21:00:00-03:00",
    "price": null,
    "url": "https://www.eventim.com.br/artist/slash/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Slash_26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1620,7 +1620,7 @@
    "start": "2027-08-13T21:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/hilary-duff/",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/09/EU_MINI_Hilary_26.webp",
    "source": "Espaço Unimed"
   },
   {
@@ -1642,7 +1642,7 @@
    "start": "2027-08-14T21:00:00-03:00",
    "price": null,
    "url": "https://www.ticketmaster.com.br/event/vg-hilary-duff-data-extra",
-   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NjAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDYwIDMyMCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/09/EU_MINI_Hilary_26.webp",
    "source": "Espaço Unimed"
   },
   {
