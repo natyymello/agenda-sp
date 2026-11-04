@@ -172,34 +172,39 @@ def p_theatro(src, html):
 
 def sheet(src):
     """Lê uma planilha do Google publicada como CSV (cadastro manual de eventos)."""
-    import csv, io
+    import csv, io, unicodedata
     cats = {"show": "Show", "teatro": "Teatro", "samba": "Samba", "forró": "Forró", "forro": "Forró", "música": "Música", "musica": "Música",
             "dança": "Dança", "danca": "Dança", "stand-up": "Stand-up", "standup": "Stand-up", "infantil": "Infantil", "outros": "Outros"}
+    key = lambda k: re.sub(r"[^a-z]", "", unicodedata.normalize("NFD", (k or "").lower()).encode("ascii", "ignore").decode())
     def dt(txt, hh=None, mm=0):
-        m = re.fullmatch(r"(\d{1,2})/(\d{1,2})(?:/(\d{2,4}))?", txt) or None
-        if m:
-            d, mo, y = int(m[1]), int(m[2]), m[3]
+        m = re.search(r"(\d{4})-(\d{2})-(\d{2})", txt)
+        if m: y, mo, d = int(m[1]), int(m[2]), int(m[3])
         else:
-            m = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", txt)
+            m = re.search(r"(\d{1,2})[/.-](\d{1,2})(?:[/.-](\d{2,4}))?", txt)
             if not m: return None
-            y, mo, d = m[1], int(m[2]), int(m[3])
+            d, mo, y = int(m[1]), int(m[2]), (int(m[3]) if m[3] else None)
         if y:
-            y = int(y) + (2000 if int(y) < 100 else 0)
+            y += 2000 if y < 100 else 0
             return datetime(y, mo, d, 12 if hh is None else hh, mm, tzinfo=SP).isoformat()
         return when(d, mo, hh, mm)
-    for r in csv.DictReader(io.StringIO(fetch(src["url"]))):
-        r = {(k or "").strip().lower(): (v or "").strip() for k, v in r.items()}
+    reader = csv.DictReader(io.StringIO(fetch(src["url"])))
+    print("  Planilha, colunas encontradas:", reader.fieldnames)
+    for i, row in enumerate(reader, start=2):
+        r = {key(k): (v or "").strip() for k, v in row.items()}
+        if not any(r.values()): continue
         try:
             title = r.get("titulo")
-            h = re.fullmatch(r"(\d{1,2})[:h](\d{2})?", r.get("hora", ""))
-            start = dt(r.get("data", ""), int(h[1]) if h else None, int(h[2] or 0) if h else 0)
-            if not (title and start): continue
+            h = re.search(r"(\d{1,2})\s*[:h]\s*(\d{2})?", r.get("hora", ""))
+            hh = int(h[1]) + (12 if h and "pm" in r.get("hora", "").lower() and int(h[1]) < 12 else 0) if h else None
+            start = dt(r.get("data", ""), hh, int(h[2] or 0) if h else 0)
+            if not (title and start):
+                print(f"  linha {i} ignorada: titulo={title!r} data={r.get('data')!r}"); continue
             e = ev(src, title, start, r.get("link") or "#", r.get("imagem") or None, notime=not h,
-                   end=dt(r["data_fim"]) if r.get("data_fim") else None, price=r.get("preco") or None)
+                   end=dt(r["datafim"]) if r.get("datafim") else None, price=r.get("preco") or None)
             e["venue"] = r.get("local") or None
             e["category"] = cats.get(r.get("categoria", "").lower()) or guess(title, "Outros")
             yield e
-        except Exception: continue
+        except Exception as ex: print(f"  linha {i} ignorada por erro: {ex}")
 
 PARSERS = {"theatro": p_theatro, "unimed": p_unimed, "tokio": p_tokio, "natura": p_natura}
 
@@ -230,7 +235,9 @@ def main():
             elif s.get("type") == "sheet": items = sheet(s)
             elif not allowed(s["url"]): print("robots.txt bloqueia:", s["url"]); continue
             else: items = PARSERS[s["parser"]](s, fetch(s["url"])) if s.get("parser") else parse(s, fetch(s["url"]))
-            for e in items or []: found[e["id"]] = e
+            n = 0
+            for e in items or []: found[e["id"]] = e; n += 1
+            print(f"{s['name']}: {n} eventos lidos")
         except Exception as ex: print("Falha em", s["name"], ex, file=sys.stderr)
     if not srcs: sys.exit("Nenhuma fonte ativa em sources.json.")
     if not found: sys.exit("Nenhum evento coletado; mantendo events.json anterior.")
