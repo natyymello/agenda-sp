@@ -217,7 +217,33 @@ def sheet(src):
             yield e
         except Exception as ex: print(f"  linha {i} ignorada por erro: {ex}")
 
-PARSERS = {"theatro": p_theatro, "unimed": p_unimed, "tokio": p_tokio, "natura": p_natura}
+def p_nubank(src, html):
+    """Nubank Parque: lê as categorias Shows/Outros (sem jogos) e abre cada página para pegar data e hora."""
+    import time
+    seen = set()
+    for page in range(3):
+        sp = soup(html)
+        for h in sp.select("h2 a[href]"):
+            link, title = h["href"], h.get_text(strip=True)
+            if link in seen or "nubankparque.com" not in link or "palmeiras" in title.lower(): continue
+            seen.add(link)
+            try:
+                time.sleep(0.5)
+                txt = soup(fetch(link)).get_text("\n", strip=True)
+                d = re.search(r"\b(\d{2})/(\d{2})/(\d{4})\b", txt)
+                if not d: print(f"  sem data: {title}"); continue
+                t = re.search(r"\b(\d{1,2}):(\d{2})\b", txt[d.end():d.end() + 40])
+                start = datetime(int(d[3]), int(d[2]), int(d[1]), int(t[1]) if t else 12, int(t[2]) if t else 0, tzinfo=SP).isoformat()
+                card = h
+                while card.parent and not card.find("img"): card = card.parent
+                yield ev(src, title, start, link, first_img(card), notime=not t)
+            except Exception as ex: print(f"  falha em {title}: {ex}")
+        nxt = next((a["href"] for a in sp.find_all("a", href=True) if "Próximo" in a.get_text()), None)
+        if not nxt: break
+        try: html = fetch(nxt)
+        except Exception: break
+
+PARSERS = {"nubank": p_nubank, "theatro": p_theatro, "unimed": p_unimed, "tokio": p_tokio, "natura": p_natura}
 
 def inspect(url):
     print("==", url)
