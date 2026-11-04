@@ -95,7 +95,7 @@ def soup(html):
         import subprocess; subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", "beautifulsoup4"])
         from bs4 import BeautifulSoup
     s = BeautifulSoup(html, "html.parser")
-    for x in s(["script", "style", "noscript", "svg"]): x.decompose()
+    for x in s(["script", "style", "svg"]): x.decompose()
     return s
 
 def when(day, mon, hh=None, mm=0):
@@ -114,6 +114,17 @@ def ev(src, title, start, url, image=None, sub="", notime=False, end=None, price
     if price: e["price"] = price
     return e
 
+def first_img(el):
+    """Acha o endereço real da imagem, mesmo quando o site usa carregamento preguiçoso (lazy-load)."""
+    for im in el.find_all("img"):
+        for a in ("data-lazy-src", "data-src", "data-lazysrc", "data-original"):
+            if im.get(a) and not im[a].startswith("data:"): return im[a]
+        src = im.get("src")
+        if src and not src.startswith("data:"): return src
+        ss = im.get("data-srcset") or im.get("data-lazy-srcset") or im.get("srcset")
+        if ss and not ss.startswith("data:"): return ss.split(",")[0].strip().split(" ")[0]
+    return None
+
 def p_unimed(src, html):
     for n in range(1, 5):
         if n > 1:
@@ -128,7 +139,7 @@ def p_unimed(src, html):
                 t = re.search(r"(\d{1,2}):(\d{2})", " ".join(p.get_text() for p in li.select("article p")))
                 a = li.select_one("a.tickets") or h.find("a"); im = li.find("img"); sub = li.select_one(".subtitle")
                 yield ev(src, h.get_text(strip=True), when(int(d.get_text()), mon, int(t[1]) if t else None, int(t[2]) if t else 0),
-                         a["href"] if a else src["url"], im.get("src") if im else None, sub.get_text(strip=True) if sub else "", notime=not t)
+                         a["href"] if a else src["url"], first_img(li), sub.get_text(strip=True) if sub else "", notime=not t)
             except Exception: continue
 
 def p_tokio(src, html):
@@ -142,7 +153,7 @@ def p_tokio(src, html):
             links = [a["href"] for a in li.find_all("a", href=True)]
             url = next((h for h in links if "tokiomarinehall" not in h), links[0]); im = li.find("img")
             yield ev(src, title, when(int(dt[1]), MESES.index(dt[2][:3].lower()) + 1, int(dt[3]) if dt[3] else None, int(dt[4] or 0)),
-                     url, im.get("data-lazysrc") if im else None, sub, notime=not dt[3])
+                     url, first_img(li), sub, notime=not dt[3])
         except Exception: continue
 
 def p_natura(src, html):
@@ -153,7 +164,7 @@ def p_natura(src, html):
             btn = c.select_one("a.elementor-button"); im = c.find("img")
             sub = next((t for t in txt if t not in (h.get_text(strip=True), m[0]) and "ingresso" not in t.lower()), "")
             yield ev(src, h.get_text(strip=True), when(int(m[1]), int(m[2])), btn["href"] if btn else h["href"],
-                     im.get("src") if im else None, sub, notime=True)
+                     first_img(c), sub, notime=True)
         except Exception: continue
 
 def p_theatro(src, html):
