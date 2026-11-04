@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:26:15.738877+00:00",
+ "updated": "2026-11-04T00:46:06.653926+00:00",
  "events": [
   {
    "id": "ZFIMVHtnMZ17adCZ",
@@ -46,18 +46,6 @@
    "url": "https://bileto.sympla.com.br/event/126349/d/410933",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/09/JULIANA-LINHARES_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "fdae30eb0827",
-   "title": "ZÉ IBARRA APRESENTA \"SAUDADE SOLIDÃO\"",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-05T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
    "notime": true
   },
   {
@@ -213,18 +201,6 @@
    "notime": true
   },
   {
-   "id": "d7061c8ee044",
-   "title": "RODRIGO ALARCON APRESENTA \"GUIZO DE CASCAVEL - VOZ E VIOLÃO\"",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-08T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "c286b7044e65",
    "title": "Espetáculo Origens",
    "category": "Dança",
@@ -258,18 +234,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "19c27a6af73b",
-   "title": "ELAINE GUIMARÃES APRESENTA \"NAS TRILHAS DE GAL - UMA HOMENAGEM A GAL COSTA\"",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-10T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "ZFIMVHtnMZ17aFOs",
    "title": "Humberto Gessinger | The Cavern Club",
    "category": "Show",
@@ -281,18 +245,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "747b7bc2c72c",
-   "title": "Marina Lima – Aniversário de 15 Anos do Cine Joia",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-11T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "7da7a1ad1eff",
    "title": "Quarteto convida Heloisa Fernandes",
    "category": "Música",
@@ -302,30 +254,6 @@
    "url": "https://theatromunicipal.org.br/eventos/quarteto-convida-heloisa-fernandes/",
    "image": null,
    "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
-   "id": "afd1b8a77b3b",
-   "title": "CACHORRO GRANDE",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-12T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
-   "id": "3a39dd951a94",
-   "title": "MARINA AQUINO ACÚSTICO NO BONA",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-12T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
    "notime": true
   },
   {
@@ -441,18 +369,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "ca913afac03a",
-   "title": "TY SEGALL",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-15T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "03ab712099e3",
    "title": "Gabriel & Shirley",
    "category": "Show",
@@ -486,30 +402,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "f4b814a3e957",
-   "title": "Luedji Luna",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-18T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
-   "id": "de68b7d3e2a8",
-   "title": "OTTO ACÚSTICO",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-18T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "ad4741deb824",
    "title": "Ca7riel & Paco Amoroso",
    "category": "Show",
@@ -530,18 +422,6 @@
    "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
    "image": "https://s1.ticketm.net/dam/a/6e5/ce33d894-56be-4c01-aa83-5bea7ddd46e5_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "1d7b4a971274",
-   "title": "OTTO ACÚSTICO",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-19T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17ap1d",
@@ -598,18 +478,6 @@
    "url": "https://bileto.sympla.com.br/event/125583/d/407784",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/08/CFE-site-miniatura-1024x1024.png",
    "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "ce3cbcf82614",
-   "title": "SIX SEX Apresenta: Ultra",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-21T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
    "notime": true
   },
   {
@@ -702,30 +570,6 @@
    "notime": true
   },
   {
-   "id": "18a6207dad49",
-   "title": "LOYLE CARNER",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-24T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
-   "id": "3fe5472723f1",
-   "title": "MOSQUITO",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-25T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "52c03386464e",
    "title": "New Order",
    "category": "Show",
@@ -760,18 +604,6 @@
    "notime": true
   },
   {
-   "id": "050719e3adfe",
-   "title": "TRICKY",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-26T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "69e38db76c69",
    "title": "Ópera Os Pescadores de Pérolas, de Georges Bizet",
    "category": "Música",
@@ -783,18 +615,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2026-12-06T12:00:00-03:00"
-  },
-  {
-   "id": "74065b663824",
-   "title": "BNegão & Black Mantra – Especial Gerson King Combo",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-27T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
   },
   {
    "id": "b94b3ec5adb1",
@@ -842,30 +662,6 @@
    "notime": true
   },
   {
-   "id": "d1e54cbb3e8d",
-   "title": "FEBRE90’S",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-28T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
-   "id": "6cfbfef32611",
-   "title": "MARTINS VOZ E VIOLÃO",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-28T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "d58151592b62",
    "title": "Babymetal",
    "category": "Show",
@@ -888,30 +684,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "358adecf8777",
-   "title": "Aterciopelados",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-11-29T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
-   "id": "122e3a7448b2",
-   "title": "JUCA NOVAES NO BONA",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-11-29T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "ZFIMVHtnMZ17aeOF",
    "title": "School of Rock Higienopolis Rock 101 Pop Rock Hits| The Cavern Club",
    "category": "Teatro",
@@ -932,18 +704,6 @@
    "url": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/460x320.webp",
    "source": "Espaço Unimed"
-  },
-  {
-   "id": "ef49b10cdc39",
-   "title": "Smerz e Model/Actriz",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-12-02T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17FMQv",
@@ -969,30 +729,6 @@
    "notime": true
   },
   {
-   "id": "97bcd8c0d0f9",
-   "title": "Nation of Language e Mannequin Puss",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-12-04T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
-   "id": "781b0c64df90",
-   "title": "TIAGO NACARATO COM O SHOW “SEGREDO DOS DEUSES”- PRÉVIA EXCLUSIVA DO ÁLBUM “MANHÃ\"",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-12-04T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "c1ed1ed85cfc",
    "title": "Nina Oliveira",
    "category": "Forró",
@@ -1002,18 +738,6 @@
    "url": "https://bileto.sympla.com.br/event/127940/d/418823",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/NINA-OLIVEIRA_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "a2e620dc1e70",
-   "title": "HEYOON",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-12-06T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
    "notime": true
   },
   {
@@ -1028,18 +752,6 @@
    "source": "Espaço Unimed"
   },
   {
-   "id": "3eda231e4b8a",
-   "title": "MATO SECO",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-12-11T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "972eb2f536e5",
    "title": "FBC",
    "category": "Show",
@@ -1049,18 +761,6 @@
    "url": "https://bileto.sympla.com.br/event/129305/d/424753",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/FBC_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "d8ab0801ce06",
-   "title": "TÓ BRANDILEONE",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-12-12T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
    "notime": true
   },
   {
@@ -1087,18 +787,6 @@
    "notime": true
   },
   {
-   "id": "7b7971fe1910",
-   "title": "AMARINA NO BONA",
-   "category": "Show",
-   "venue": "Bona Casa Musica",
-   "start": "2026-12-13T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.bona.art.br/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "2b9394309906",
    "title": "Renato Albani",
    "category": "Show",
@@ -1121,18 +809,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "3dfe05eea7c3",
-   "title": "DESORDEN PÚBLICO & OBMJ",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-12-17T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "ZFIMVHtnMZ17afeZ",
    "title": "Ozzmosis | The Cavern Club",
    "category": "Show",
@@ -1142,30 +818,6 @@
    "url": "https://www.ticketmaster.com.br/event/ozzmosis-the-cavern-club",
    "image": "https://s1.ticketm.net/dam/a/fe2/4dea843f-9d27-42d1-a4c7-4124cc69cfe2_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "e18095e30898",
-   "title": "Yaima",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-12-19T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
-   "id": "3a5cd9d9fbbc",
-   "title": "supercombo",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2026-12-20T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
   },
   {
    "id": "84c8c56abbc5",
@@ -1212,18 +864,6 @@
    "source": "Espaço Unimed"
   },
   {
-   "id": "095e1fb55f1e",
-   "title": "irma",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2027-01-08T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "5a76bd588ae4",
    "title": "Gravação de DVD Rick & Renner Pra Sempre",
    "category": "Show",
@@ -1244,18 +884,6 @@
    "url": "https://www.espacounimed.com.br/show/baco-exu-do-blues-4/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Baco_27.webp",
    "source": "Espaço Unimed"
-  },
-  {
-   "id": "060acd23e310",
-   "title": "SAINT LEVANT",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2027-01-27T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17aaZ7",
@@ -1335,18 +963,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "a25027dbf2c6",
-   "title": "Buffalo Tom",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2027-02-27T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "6d695d4d3e79",
    "title": "MOTIONLESS IN WHITE",
    "category": "Show",
@@ -1413,18 +1029,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "cf80de932f1c",
-   "title": "Gang of Four",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2027-03-13T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
-  },
-  {
    "id": "798aee5b6762",
    "title": "Calema",
    "category": "Show",
@@ -1478,18 +1082,6 @@
    "url": "https://www.espacounimed.com.br/show/jungle/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/05/EU_MINI_Jungle.26.webp",
    "source": "Espaço Unimed"
-  },
-  {
-   "id": "5eb774753d5f",
-   "title": "ERICK BRIAN",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2027-04-02T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17F3_b",
@@ -1655,18 +1247,6 @@
    "url": "https://www.ticketmaster.com.br/event/vg-hilary-duff-data-extra",
    "image": "https://s1.ticketm.net/dam/a/79d/8bcf830c-6388-4fad-b488-75ade6e3179d_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "3a2729ba7baf",
-   "title": "Toy Dolls",
-   "category": "Show",
-   "venue": "Cine Joia",
-   "start": "2027-09-18T12:00:00-03:00",
-   "price": null,
-   "url": "https://www.cinejoia.com.br/agenda/",
-   "image": null,
-   "source": "Planilha manual",
-   "notime": true
   },
   {
    "id": "ZFIMVHtnMZauQt",
