@@ -1,30 +1,6 @@
 {
- "updated": "2026-11-04T21:41:52.267696+00:00",
+ "updated": "2026-11-05T09:51:07.333539+00:00",
  "events": [
-  {
-   "id": "a33d7e4af6e2",
-   "title": "LEANDRO CABRAL",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-04T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/leandro-cabral/",
-   "end": "2026-11-04T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Cabral.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "a7683280e52a",
-   "title": "WEATHER REPORT TRIBUTO",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-04T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/weather-report-tributo/",
-   "end": "2026-11-05T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Weather.webp",
-   "source": "Blue Note SP"
-  },
   {
    "id": "5be65360fdd9",
    "title": "Juliana Linhares",
@@ -74,19 +50,6 @@
    "notime": true
   },
   {
-   "id": "0a818449cba7",
-   "title": "Morais e Tchaikovsky",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-11-06T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/morais-e-tchaikovsky/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true,
-   "end": "2026-11-07T12:00:00-03:00"
-  },
-  {
    "id": "ed05292f5b40",
    "title": "DANCE PARTY COM MARK LAMBERT &#038; BLUE NOTE BIG BAND",
    "category": "Show",
@@ -108,6 +71,30 @@
    "url": "https://www.eventim.com.br/opeth",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/01/Miniatura_06.11.26.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "b576178a6bf1",
+   "title": "BIG ALLANBIK",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-06T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/big-allanbik/",
+   "end": "2026-11-07T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_BigAllanbik.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "52fd68d96879",
+   "title": "BAILE CAFÉ CON RON",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-06T23:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/baile-cafe-con-ron/",
+   "end": "2026-11-07T00:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_CafeConRon.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17afCa",
@@ -178,18 +165,6 @@
    "notime": true
   },
   {
-   "id": "e335bb06737d",
-   "title": "Palavra em Travessia",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-11-08T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/orquestra-experimental-de-repertorio-palavra-em-travessia/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
    "id": "c286b7044e65",
    "title": "Espetáculo Origens",
    "category": "Dança",
@@ -234,18 +209,6 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "7da7a1ad1eff",
-   "title": "Quarteto convida Heloisa Fernandes",
-   "category": "Música",
-   "venue": "Praça das Artes",
-   "start": "2026-11-12T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/quarteto-convida-heloisa-fernandes/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
    "id": "e7c721b74594",
    "title": "Hayley Williams",
    "category": "Show",
@@ -288,18 +251,6 @@
    "url": "https://bileto.sympla.com.br/event/123857/d/400019",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/07/CICERO_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "122dac8d3244",
-   "title": "Municipal Circula – Balé da Cidade no CEU Cidade Dutra",
-   "category": "Dança",
-   "venue": "Outros",
-   "start": "2026-11-13T12:00:00-03:00",
-   "price": "Grátis",
-   "url": "https://theatromunicipal.org.br/eventos/municipal-circula-no-ceu-cidade-dutra/",
-   "image": null,
-   "source": "Theatro Municipal SP",
    "notime": true
   },
   {
@@ -580,31 +531,6 @@
    "url": "https://www.ticketmaster.com.br/event/new-order",
    "image": "https://s1.ticketm.net/dam/a/a6b/182bb789-0627-430d-8cc2-95a3c3224a6b_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "2f71b763721c",
-   "title": "Quarteto de Cordas – Diálogos: Price, Brahms e Dvořák",
-   "category": "Música",
-   "venue": "Praça das Artes",
-   "start": "2026-11-26T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
-   "id": "69e38db76c69",
-   "title": "Ópera Os Pescadores de Pérolas, de Georges Bizet",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-11-27T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true,
-   "end": "2026-12-06T12:00:00-03:00"
   },
   {
    "id": "b94b3ec5adb1",
