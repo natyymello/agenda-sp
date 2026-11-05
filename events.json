@@ -1,18 +1,6 @@
 {
- "updated": "2026-11-05T09:51:07.333539+00:00",
+ "updated": "2026-11-05T21:38:06.741765+00:00",
  "events": [
-  {
-   "id": "5be65360fdd9",
-   "title": "Juliana Linhares",
-   "category": "Show",
-   "venue": "Casa Natura Musical",
-   "start": "2026-11-05T12:00:00-03:00",
-   "price": null,
-   "url": "https://bileto.sympla.com.br/event/126349/d/410933",
-   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/09/JULIANA-LINHARES_site-miniatura-1024x1024.jpg",
-   "source": "Casa Natura Musical",
-   "notime": true
-  },
   {
    "id": "a487630117ce",
    "title": "JEAN LUC PONTY PROJECT",
@@ -48,6 +36,19 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/PEDRO-MIZUTANI-E-ALAN-BERNARDES_site-miniatura-1-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "0a818449cba7",
+   "title": "Morais e Tchaikovsky",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-11-06T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/morais-e-tchaikovsky/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2026-11-07T12:00:00-03:00"
   },
   {
    "id": "ed05292f5b40",
@@ -165,6 +166,18 @@
    "notime": true
   },
   {
+   "id": "e335bb06737d",
+   "title": "Palavra em Travessia",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-11-08T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/orquestra-experimental-de-repertorio-palavra-em-travessia/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
    "id": "c286b7044e65",
    "title": "Espetáculo Origens",
    "category": "Dança",
@@ -209,6 +222,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "7da7a1ad1eff",
+   "title": "Quarteto convida Heloisa Fernandes",
+   "category": "Música",
+   "venue": "Praça das Artes",
+   "start": "2026-11-12T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/quarteto-convida-heloisa-fernandes/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
    "id": "e7c721b74594",
    "title": "Hayley Williams",
    "category": "Show",
@@ -251,6 +276,18 @@
    "url": "https://bileto.sympla.com.br/event/123857/d/400019",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/07/CICERO_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
+   "id": "122dac8d3244",
+   "title": "Municipal Circula – Balé da Cidade no CEU Cidade Dutra",
+   "category": "Dança",
+   "venue": "Outros",
+   "start": "2026-11-13T12:00:00-03:00",
+   "price": "Grátis",
+   "url": "https://theatromunicipal.org.br/eventos/municipal-circula-no-ceu-cidade-dutra/",
+   "image": null,
+   "source": "Theatro Municipal SP",
    "notime": true
   },
   {
@@ -374,6 +411,30 @@
    "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
    "image": "https://s1.ticketm.net/dam/a/6e5/ce33d894-56be-4c01-aa83-5bea7ddd46e5_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "0ca939e76264",
+   "title": "Quarteto de Cordas no Festival Britten",
+   "category": "Música",
+   "venue": "Outros",
+   "start": "2026-11-19T12:00:00-03:00",
+   "price": "Grátis",
+   "url": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-na-biblioteca-brasiliana-guita-e-jose-mindlin-usp/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
+   "id": "819b1793a4a6",
+   "title": "Festival Ecos Latinoamericanos: Misa Criolla, Coral Paulistano e Indiana Nomma",
+   "category": "Música",
+   "venue": "Outros",
+   "start": "2026-11-19T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/festival-ecos-latinoamericanos-misa-criolla-coral-paulistano-e-indiana-nomma/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17ap1d",
@@ -508,6 +569,18 @@
    "url": "https://bileto.sympla.com.br/event/123217/d/397036",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/06/LA-BOMBA-DE-TIEMPO_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
+   "id": "6749a8ebdc27",
+   "title": "24/11/2026",
+   "category": "Teatro",
+   "venue": "Outros",
+   "start": "2026-11-24T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/categorias-eventos/concertos/",
+   "image": null,
+   "source": "Theatro Municipal SP",
    "notime": true
   },
   {
@@ -1029,6 +1102,17 @@
    "price": null,
    "url": "https://www.eventim.com.br/artist/slash/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Slash_26.webp",
+   "source": "Espaço Unimed"
+  },
+  {
+   "id": "eca7c40183fd",
+   "title": "Leonardo",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-04-17T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/leonardo-3/",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/EU_MINI_Leonardo_27.webp",
    "source": "Espaço Unimed"
   },
   {
