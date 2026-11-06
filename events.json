@@ -1,30 +1,6 @@
 {
- "updated": "2026-11-05T21:38:06.741765+00:00",
+ "updated": "2026-11-06T09:53:08.257452+00:00",
  "events": [
-  {
-   "id": "a487630117ce",
-   "title": "JEAN LUC PONTY PROJECT",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-05T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/jean-luc-ponty-project-imaginary-voyage-50-anos/",
-   "end": "2026-11-05T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/06/Show_NOV05_JeanLucPonty.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "c1f78534b3c2",
-   "title": "U2 EXPERIENCE",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-05T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/u2-experience-u2-rio/",
-   "end": "2026-11-06T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_U2Rio.webp",
-   "source": "Blue Note SP"
-  },
   {
    "id": "8eb77214c9a5",
    "title": "Pedro Mizutani + Alan Bernardes",
@@ -121,6 +97,18 @@
    "notime": true
   },
   {
+   "id": "c0e1af276acf",
+   "title": "KLEITON &#038; KLEDIR",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-07T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/kleiton-kledir/",
+   "end": "2026-11-07T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_KleiKled.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "f11ae9a7e9b6",
    "title": "Daniel",
    "category": "Show",
@@ -130,6 +118,18 @@
    "url": "https://www.espacounimed.com.br/show/daniel-2/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/Miniatura_daniel_2026.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "1803e0931cfe",
+   "title": "KLEITON &#038; KLEDIR",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-07T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/kleiton-kledir/",
+   "end": "2026-11-08T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_KleiKled.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17F4Zy",
@@ -187,6 +187,18 @@
    "url": "https://www.ticketmaster.com.br/event/espetaculo-origens-associacao-fernanda-bianchini-bale-de-cegos-tokio-marine-hall",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/10/destaque_st_ori.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "b2eaae9caf9b",
+   "title": "HOLLAND MEETS BRAZIL",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-08T19:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/holland-meets-brazil/",
+   "end": "2026-11-08T20:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_HMB.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "2ed721bb6693",
