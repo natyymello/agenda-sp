@@ -1,17 +1,18 @@
 {
- "updated": "2026-11-06T09:53:08.257452+00:00",
+ "updated": "2026-11-06T21:31:35.368677+00:00",
  "events": [
   {
-   "id": "8eb77214c9a5",
-   "title": "Pedro Mizutani + Alan Bernardes",
-   "category": "Show",
-   "venue": "Casa Natura Musical",
-   "start": "2026-11-06T12:00:00-03:00",
-   "price": null,
-   "url": "https://bileto.sympla.com.br/event/128096",
-   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/PEDRO-MIZUTANI-E-ALAN-BERNARDES_site-miniatura-1-1024x1024.jpg",
-   "source": "Casa Natura Musical",
-   "notime": true
+   "id": "10f601a135eb",
+   "title": "Exposição “Memórias em Cena: Pérolas de Naum no Municipal”",
+   "category": "Teatro",
+   "venue": "Theatro Municipal",
+   "start": "2026-10-24T12:00:00-03:00",
+   "price": "Grátis",
+   "url": "https://theatromunicipal.org.br/eventos/exposicao-memorias-em-cena-perolas-de-naum-no-municipal/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2027-01-23T12:00:00-03:00"
   },
   {
    "id": "0a818449cba7",
@@ -584,18 +585,6 @@
    "notime": true
   },
   {
-   "id": "6749a8ebdc27",
-   "title": "24/11/2026",
-   "category": "Teatro",
-   "venue": "Outros",
-   "start": "2026-11-24T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/categorias-eventos/concertos/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
    "id": "52c03386464e",
    "title": "New Order",
    "category": "Show",
@@ -850,6 +839,17 @@
    "price": null,
    "url": "https://www.espacounimed.com.br/show/livinho/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/Miniatura_livinho_2026.webp",
+   "source": "Espaço Unimed"
+  },
+  {
+   "id": "5a76bd588ae4",
+   "title": "Gravação de DVD Rick & Renner Pra Sempre",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-01-21T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/gravacao-de-dvd-rick-renner-pra-sempre/",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_RickRenner_.webp",
    "source": "Espaço Unimed"
   },
   {
