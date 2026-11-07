@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:31:35.368677+00:00",
+ "updated": "2026-11-07T09:37:42.385125+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -26,64 +26,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2026-11-07T12:00:00-03:00"
-  },
-  {
-   "id": "ed05292f5b40",
-   "title": "DANCE PARTY COM MARK LAMBERT &#038; BLUE NOTE BIG BAND",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-06T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/dance-party-com-mark-lambert-blue-note-big-band/",
-   "end": "2026-11-06T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/08-Site-Blue-Note-SP-400x480px_BNBigBand.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "da332c2d85ea",
-   "title": "Opeth",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-06T21:30:00-03:00",
-   "price": null,
-   "url": "https://www.eventim.com.br/opeth",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/01/Miniatura_06.11.26.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "b576178a6bf1",
-   "title": "BIG ALLANBIK",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-06T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/big-allanbik/",
-   "end": "2026-11-07T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_BigAllanbik.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "52fd68d96879",
-   "title": "BAILE CAFÉ CON RON",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-06T23:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/baile-cafe-con-ron/",
-   "end": "2026-11-07T00:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_CafeConRon.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17afCa",
-   "title": "Boca Livre | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-07T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/boca-livre-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "8631f9cd6b14",
@@ -224,6 +166,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "37f7c5cbd988",
+   "title": "LORENZA POZZA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-10T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/lorenza-pozza/",
+   "end": "2026-11-10T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Pozza.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17aFOs",
    "title": "Humberto Gessinger | The Cavern Club",
    "category": "Show",
@@ -233,6 +187,30 @@
    "url": "https://www.ticketmaster.com.br/event/humberto-gessinger-the-cavern-club",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "bfc6068619f0",
+   "title": "BOB MARLEY IN JAZZ",
+   "category": "Música",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-11T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/bob-marley-in-jazz/",
+   "end": "2026-11-11T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Marley.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "469415631707",
+   "title": "TRIBUTO WAYNE SHORTER &#8211; SPEAK NO EVIL 60 ANOS",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-11T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/tributo-wayne-shorter-speak-no-evil-60-anos/",
+   "end": "2026-11-12T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_Heber.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "7da7a1ad1eff",
