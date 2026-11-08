@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:27:42.422769+00:00",
+ "updated": "2026-11-08T09:37:25.487562+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,63 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "c0e1af276acf",
-   "title": "KLEITON &#038; KLEDIR",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-07T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/kleiton-kledir/",
-   "end": "2026-11-07T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_KleiKled.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "f11ae9a7e9b6",
-   "title": "Daniel",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-07T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/daniel-2/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/Miniatura_daniel_2026.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "1803e0931cfe",
-   "title": "KLEITON &#038; KLEDIR",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-07T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/kleiton-kledir/",
-   "end": "2026-11-08T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_KleiKled.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17F4Zy",
-   "title": "Sepultura: Celebrating Life Through Death",
-   "category": "Show",
-   "venue": "Mercado Livre Arena Pacaembu",
-   "start": "2026-11-07T23:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/sepultura-sao-paulo",
-   "image": "https://s1.ticketm.net/dam/a/fc2/0cad0f29-81f5-40d0-88ec-48a83c5eafc2_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17a7Ab",
-   "title": "André Frateschi | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-08T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/andre-frateschi-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "c79906f1f601",
@@ -209,6 +152,18 @@
    "url": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/Miniatura_hayley_2026.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "536f6b3c097f",
+   "title": "TRIBUTO A ELLA FITZGERALD POR INDIANA NOMMA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-12T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/tributo-a-ella-fitzgerald-por-indiana-nomma/",
+   "end": "2026-11-12T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/06/Show_NOV12_TributoEllaFitzgerald.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17avup",
@@ -538,6 +493,18 @@
    "notime": true
   },
   {
+   "id": "6749a8ebdc27",
+   "title": "24/11/2026",
+   "category": "Teatro",
+   "venue": "Outros",
+   "start": "2026-11-24T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/categorias-eventos/concertos/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
    "id": "52c03386464e",
    "title": "New Order",
    "category": "Show",
@@ -558,6 +525,18 @@
    "url": "https://www.ticketmaster.com.br/event/new-order",
    "image": "https://s1.ticketm.net/dam/a/a6b/182bb789-0627-430d-8cc2-95a3c3224a6b_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "2f71b763721c",
+   "title": "Quarteto de Cordas – Diálogos: Price, Brahms e Dvořák",
+   "category": "Música",
+   "venue": "Praça das Artes",
+   "start": "2026-11-26T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
   },
   {
    "id": "b94b3ec5adb1",
