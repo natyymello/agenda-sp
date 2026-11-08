@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:37:25.487562+00:00",
+ "updated": "2026-11-08T21:27:03.854893+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,30 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "c79906f1f601",
-   "title": "Gisela Mabel",
-   "category": "Show",
-   "venue": "Casa Natura Musical",
-   "start": "2026-11-08T12:00:00-03:00",
-   "price": null,
-   "url": "https://bileto.sympla.com.br/event/126968/d/414176",
-   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/09/GISELA-MABEL_site-miniatura-1024x1024.jpg",
-   "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "e335bb06737d",
-   "title": "Palavra em Travessia",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-11-08T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/orquestra-experimental-de-repertorio-palavra-em-travessia/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
   },
   {
    "id": "c286b7044e65",
