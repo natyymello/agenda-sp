@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:51:34.167483+00:00",
+ "updated": "2026-11-09T21:40:54.091176+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -591,6 +591,18 @@
    "url": "https://www.ticketmaster.com.br/event/daniel-caesar",
    "image": "https://s1.ticketm.net/dam/a/12f/b96760a8-2d4d-4e0b-88ca-21bf2be8b12f_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "2807b872d2e2",
+   "title": "Puro Suco",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2026-12-05T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/129361/d/424979",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/PURO-SUCO_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
   },
   {
    "id": "c1ed1ed85cfc",
