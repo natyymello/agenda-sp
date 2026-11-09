@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T21:27:03.854893+00:00",
+ "updated": "2026-11-09T09:51:34.167483+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,40 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "c286b7044e65",
-   "title": "Espetáculo Origens",
-   "category": "Dança",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-08T17:00:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/espetaculo-origens-associacao-fernanda-bianchini-bale-de-cegos-tokio-marine-hall",
-   "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/10/destaque_st_ori.jpg",
-   "source": "Tokio Marine Hall"
-  },
-  {
-   "id": "b2eaae9caf9b",
-   "title": "HOLLAND MEETS BRAZIL",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-08T19:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/holland-meets-brazil/",
-   "end": "2026-11-08T20:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_HMB.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "2ed721bb6693",
-   "title": "Luana Zucoloto",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-08T19:30:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/luana-zucoloto/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/Miniatura_luana2_2026.webp",
-   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17FV-E",
@@ -139,6 +105,18 @@
    "url": "https://bluenotesp.com/shows/tributo-a-ella-fitzgerald-por-indiana-nomma/",
    "end": "2026-11-12T21:30:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/06/Show_NOV12_TributoEllaFitzgerald.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "a90a89684f0b",
+   "title": "COLLABORATION IN CONCERT",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-12T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/collaboration-in-concert/",
+   "end": "2026-11-13T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Collab.webp",
    "source": "Blue Note SP"
   },
   {
