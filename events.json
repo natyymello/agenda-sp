@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:40:54.091176+00:00",
+ "updated": "2026-11-10T09:48:22.553804+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,17 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "ZFIMVHtnMZ17FV-E",
-   "title": "Pelas Pistas no Sampa Sky",
-   "category": "Teatro",
-   "venue": "Edifício Mirante do Vale",
-   "start": "2026-11-09T20:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/pelas-pistas-no-sampa-sky",
-   "image": "https://s1.ticketm.net/dam/c/6f4/e1c4766b-fa7f-4fb4-a539-6638fd7856f4_106171_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "37f7c5cbd988",
