@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:48:22.553804+00:00",
+ "updated": "2026-11-10T21:31:27.781495+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -47,18 +47,6 @@
    "url": "https://bluenotesp.com/shows/bob-marley-in-jazz/",
    "end": "2026-11-11T21:30:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Marley.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "469415631707",
-   "title": "TRIBUTO WAYNE SHORTER &#8211; SPEAK NO EVIL 60 ANOS",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-11T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/tributo-wayne-shorter-speak-no-evil-60-anos/",
-   "end": "2026-11-12T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_Heber.webp",
    "source": "Blue Note SP"
   },
   {
@@ -164,6 +152,18 @@
    "url": "https://www.espacounimed.com.br/show/hayley-williams/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/Miniatura_hayley_2026.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "e149997fc2a9",
+   "title": "AMICI",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-13T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/amici-reinterpretam-os-sucessos-dos-amigos__9e0cvdrs/",
+   "end": "2026-11-13T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_Amici.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17avuN",
