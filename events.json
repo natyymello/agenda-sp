@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:31:27.781495+00:00",
+ "updated": "2026-11-11T09:50:07.975835+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,29 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "37f7c5cbd988",
-   "title": "LORENZA POZZA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-10T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/lorenza-pozza/",
-   "end": "2026-11-10T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Pozza.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17aFOs",
-   "title": "Humberto Gessinger | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-11T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/humberto-gessinger-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "bfc6068619f0",
@@ -163,6 +140,18 @@
    "url": "https://bluenotesp.com/shows/amici-reinterpretam-os-sucessos-dos-amigos__9e0cvdrs/",
    "end": "2026-11-13T21:30:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_Amici.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "46c4bf588d5f",
+   "title": "SALA DE MÚSICA &#8211; RÁDIO CBN",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-13T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/sala-de-musica-radio-cbn/",
+   "end": "2026-11-13T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_SalaMusic.webp",
    "source": "Blue Note SP"
   },
   {
