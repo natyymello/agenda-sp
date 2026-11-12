@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:50:13.722763+00:00",
+ "updated": "2026-11-12T21:38:37.848452+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,18 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "7da7a1ad1eff",
-   "title": "Quarteto convida Heloisa Fernandes",
-   "category": "Música",
-   "venue": "Praça das Artes",
-   "start": "2026-11-12T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/quarteto-convida-heloisa-fernandes/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
   },
   {
    "id": "e7c721b74594",
