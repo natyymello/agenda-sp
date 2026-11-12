@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:02:04.239514+00:00",
+ "updated": "2026-11-12T09:50:13.722763+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,18 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "bfc6068619f0",
-   "title": "BOB MARLEY IN JAZZ",
-   "category": "Música",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-11T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/bob-marley-in-jazz/",
-   "end": "2026-11-11T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Marley.webp",
-   "source": "Blue Note SP"
   },
   {
    "id": "7da7a1ad1eff",
@@ -152,6 +140,18 @@
    "url": "https://bluenotesp.com/shows/sala-de-musica-radio-cbn/",
    "end": "2026-11-13T21:30:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_SalaMusic.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "0b4dd4376cb7",
+   "title": "DAY LIMNS",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-13T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/day-limns/",
+   "end": "2026-11-14T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_DayLimns.webp",
    "source": "Blue Note SP"
   },
   {
