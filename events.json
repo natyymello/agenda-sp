@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:38:37.848452+00:00",
+ "updated": "2026-11-13T09:50:17.975805+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,63 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "e7c721b74594",
-   "title": "Hayley Williams",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-12T20:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/the-hayley-williams-show/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/Miniatura_hayley_2026.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "536f6b3c097f",
-   "title": "TRIBUTO A ELLA FITZGERALD POR INDIANA NOMMA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-12T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/tributo-a-ella-fitzgerald-por-indiana-nomma/",
-   "end": "2026-11-12T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/06/Show_NOV12_TributoEllaFitzgerald.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "a90a89684f0b",
-   "title": "COLLABORATION IN CONCERT",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-12T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/collaboration-in-concert/",
-   "end": "2026-11-13T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Collab.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17avup",
-   "title": "Blitz | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-13T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/blitz-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17kv0O",
-   "title": "The Cat Empire na Audio - SP",
-   "category": "Show",
-   "venue": "Audio",
-   "start": "2026-11-13T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/the-cat-empire-na-audio-sp",
-   "image": "https://s1.ticketm.net/dam/a/558/5d550d5b-4e20-4f3c-9b1d-7a62544b9558_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "e2b01fc01934",
@@ -107,6 +50,18 @@
    "source": "Espaço Unimed"
   },
   {
+   "id": "46c4bf588d5f",
+   "title": "SALA DE MÚSICA &#8211; RÁDIO CBN",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-13T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/sala-de-musica-radio-cbn/",
+   "end": "2026-11-13T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_SalaMusic.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "e149997fc2a9",
    "title": "AMICI",
    "category": "Show",
@@ -119,15 +74,15 @@
    "source": "Blue Note SP"
   },
   {
-   "id": "46c4bf588d5f",
-   "title": "SALA DE MÚSICA &#8211; RÁDIO CBN",
+   "id": "3491dc89e3f7",
+   "title": "ABBA THE HISTORY",
    "category": "Show",
    "venue": "Blue Note São Paulo",
-   "start": "2026-11-13T20:00:00-03:00",
+   "start": "2026-11-13T22:30:00-03:00",
    "price": null,
-   "url": "https://bluenotesp.com/shows/sala-de-musica-radio-cbn/",
-   "end": "2026-11-13T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_SalaMusic.webp",
+   "url": "https://bluenotesp.com/shows/abba-the-history/",
+   "end": "2026-11-14T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Abba.webp",
    "source": "Blue Note SP"
   },
   {
@@ -164,6 +119,18 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/09/PLANTA-E-RAIZ_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "681389b47304",
+   "title": "NONETO BRASIL JAZZ SINFÔNICA",
+   "category": "Música",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-14T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/noneto-brasil-jazz-sinfonica/",
+   "end": "2026-11-14T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Noneto.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "b53a44e1a2ab",
@@ -457,6 +424,19 @@
    "image": null,
    "source": "Theatro Municipal SP",
    "notime": true
+  },
+  {
+   "id": "69e38db76c69",
+   "title": "Ópera Os Pescadores de Pérolas, de Georges Bizet",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-11-27T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2026-12-06T12:00:00-03:00"
   },
   {
    "id": "b94b3ec5adb1",
