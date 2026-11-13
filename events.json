@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:50:17.975805+00:00",
+ "updated": "2026-11-13T21:39:43.407265+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,30 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "e2b01fc01934",
-   "title": "Cícero",
-   "category": "Show",
-   "venue": "Casa Natura Musical",
-   "start": "2026-11-13T12:00:00-03:00",
-   "price": null,
-   "url": "https://bileto.sympla.com.br/event/123857/d/400019",
-   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/07/CICERO_site-miniatura-1024x1024.jpg",
-   "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "122dac8d3244",
-   "title": "Municipal Circula – Balé da Cidade no CEU Cidade Dutra",
-   "category": "Dança",
-   "venue": "Outros",
-   "start": "2026-11-13T12:00:00-03:00",
-   "price": "Grátis",
-   "url": "https://theatromunicipal.org.br/eventos/municipal-circula-no-ceu-cidade-dutra/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
   },
   {
    "id": "5a65019e949d",
