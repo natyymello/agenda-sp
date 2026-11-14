@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:37:20.529279+00:00",
+ "updated": "2026-11-14T21:27:52.371104+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,18 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "cc90eaeb9902",
-   "title": "Planta e Raiz",
-   "category": "Show",
-   "venue": "Casa Natura Musical",
-   "start": "2026-11-14T12:00:00-03:00",
-   "price": null,
-   "url": "https://bileto.sympla.com.br/event/125860/d/408765",
-   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/09/PLANTA-E-RAIZ_site-miniatura-1024x1024.jpg",
-   "source": "Casa Natura Musical",
-   "notime": true
   },
   {
    "id": "bd52d70a890c",
@@ -671,6 +659,17 @@
    "price": null,
    "url": "https://www.espacounimed.com.br/show/baco-exu-do-blues-4/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Baco_27.webp",
+   "source": "Espaço Unimed"
+  },
+  {
+   "id": "11d05ea994fb",
+   "title": "Gravação de DVD Alexandre Pires",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-01-27T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/gravacao-de-dvd-alexandre-pires/",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_Miniatura_Alexandre-Pires_27.webp",
    "source": "Espaço Unimed"
   },
   {
