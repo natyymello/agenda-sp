@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:39:43.407265+00:00",
+ "updated": "2026-11-14T09:37:20.529279+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -15,76 +15,6 @@
    "end": "2027-01-23T12:00:00-03:00"
   },
   {
-   "id": "5a65019e949d",
-   "title": "Hayley Williams",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-13T20:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/hayley-williams/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/Miniatura_hayley_2026.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "46c4bf588d5f",
-   "title": "SALA DE MÚSICA &#8211; RÁDIO CBN",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-13T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/sala-de-musica-radio-cbn/",
-   "end": "2026-11-13T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_SalaMusic.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "e149997fc2a9",
-   "title": "AMICI",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-13T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/amici-reinterpretam-os-sucessos-dos-amigos__9e0cvdrs/",
-   "end": "2026-11-13T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_Amici.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "3491dc89e3f7",
-   "title": "ABBA THE HISTORY",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-13T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/abba-the-history/",
-   "end": "2026-11-14T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Abba.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "0b4dd4376cb7",
-   "title": "DAY LIMNS",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-13T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/day-limns/",
-   "end": "2026-11-14T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_DayLimns.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17avuN",
-   "title": "Blitz | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-14T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/blitz-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
-  },
-  {
    "id": "cc90eaeb9902",
    "title": "Planta e Raiz",
    "category": "Show",
@@ -95,6 +25,18 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/09/PLANTA-E-RAIZ_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "bd52d70a890c",
+   "title": "SÓ PEDRADA MUSICAL &#8211; DJ TAMENPI, DJ HUM, BNEGÃO BOTA SOM E LUÍSA VISCARDI",
+   "category": "Teatro",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-14T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/so-pedrada-musical/",
+   "end": "2026-11-14T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_SoPedrada.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "681389b47304",
@@ -131,6 +73,18 @@
    "source": "Espaço Unimed"
   },
   {
+   "id": "cc9027745436",
+   "title": "ÉDITH PIAF POR LIA PARIS",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-14T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/edith-piaf-por-lia-paris-uma-viagem-pela-chanson-francaise/",
+   "end": "2026-11-15T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17aF-0",
    "title": "Guilherme Arantes | Tokio Marine Hall",
    "category": "Show",
@@ -153,6 +107,18 @@
    "source": "Tokio Marine Hall"
   },
   {
+   "id": "d6e5d3e127d4",
+   "title": "PULP FICTION SOUNDTRACK POR FRÃ FINAMORE",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-15T19:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/pulp-fiction-soundtrack-por-fra-finamore/",
+   "end": "2026-11-15T20:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_PulpFiction.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17k4Gt",
    "title": "Gabriel e Shirley - Tokio Marine Hall",
    "category": "Teatro",
@@ -162,6 +128,18 @@
    "url": "https://www.ticketmaster.com.br/event/gabriel-e-shirley-tokio-marine-hall",
    "image": "https://s1.ticketm.net/dam/c/8e8/89409e3a-57d3-450d-be32-d5ab4a7538e8_106501_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "654c814fb269",
+   "title": "TRIBUTO A MILES DAVIS &#8211; BITCHES BREW",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-17T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/tributo-a-miles-davis-bitches-brew-musicman-jazz/",
+   "end": "2026-11-17T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/06/Show_NOV17_TributoMilesDavis.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17adCe",
@@ -513,6 +491,18 @@
    "url": "https://www.ticketmaster.com.br/event/daniel-caesar",
    "image": "https://s1.ticketm.net/dam/a/12f/b96760a8-2d4d-4e0b-88ca-21bf2be8b12f_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "6e5b0a658f20",
+   "title": "Natività Del Signore",
+   "category": "Música",
+   "venue": "Praça das Artes",
+   "start": "2026-12-03T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/concerto-nativita-del-signore/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
   },
   {
    "id": "2807b872d2e2",
