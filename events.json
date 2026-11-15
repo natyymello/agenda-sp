@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:27:52.371104+00:00",
+ "updated": "2026-11-15T09:38:14.454521+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,75 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "bd52d70a890c",
-   "title": "SÓ PEDRADA MUSICAL &#8211; DJ TAMENPI, DJ HUM, BNEGÃO BOTA SOM E LUÍSA VISCARDI",
-   "category": "Teatro",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-14T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/so-pedrada-musical/",
-   "end": "2026-11-14T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_SoPedrada.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "681389b47304",
-   "title": "NONETO BRASIL JAZZ SINFÔNICA",
-   "category": "Música",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-14T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/noneto-brasil-jazz-sinfonica/",
-   "end": "2026-11-14T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Noneto.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "b53a44e1a2ab",
-   "title": "Guilherme Arantes",
-   "category": "Show",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-14T21:00:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/guilherme-arantes-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=GuilhermeA",
-   "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/09/destaque_st_guia.jpg",
-   "source": "Tokio Marine Hall"
-  },
-  {
-   "id": "c2318b143a75",
-   "title": "Gustavo Mioto",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-14T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/gustavo-mioto-2/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/Miniatura_gustavomioto2_2026.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "cc9027745436",
-   "title": "ÉDITH PIAF POR LIA PARIS",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-14T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/edith-piaf-por-lia-paris-uma-viagem-pela-chanson-francaise/",
-   "end": "2026-11-15T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17aF-0",
-   "title": "Guilherme Arantes | Tokio Marine Hall",
-   "category": "Show",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-15T00:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/guilherme-arantes-tokio-marine-hall",
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "03ab712099e3",
@@ -130,6 +61,18 @@
    "source": "Blue Note SP"
   },
   {
+   "id": "6ce283b7d74b",
+   "title": "ANDREA POLINELLI QUARTET",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-17T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/andrea-polinelli-quartet-gato-barbieri-reloaded/",
+   "end": "2026-11-18T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_Polinelli.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17adCe",
    "title": "Diogo Portugal | The Cavern Club",
    "category": "Stand-up",
@@ -141,6 +84,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "4f0d3ab941bc",
+   "title": "ROLLING STONE SESSIONS APRESENTA: HURRICANES",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-18T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/",
+   "end": "2026-11-18T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Hurricanes-1.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "ad4741deb824",
    "title": "Ca7riel & Paco Amoroso",
    "category": "Show",
@@ -150,6 +105,18 @@
    "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/03/Miniatura_ca7riel.26.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "9a168940bd7a",
+   "title": "MARCELO RUBENS PAIVA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-18T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/marcelo-rubens-paiva/",
+   "end": "2026-11-19T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Rubens.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17kKFI",
