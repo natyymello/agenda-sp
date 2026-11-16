@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:33:35.480511+00:00",
+ "updated": "2026-11-16T21:40:16.398878+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -24,18 +24,6 @@
    "url": "https://bluenotesp.com/shows/tributo-a-miles-davis-bitches-brew-musicman-jazz/",
    "end": "2026-11-17T21:30:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/06/Show_NOV17_TributoMilesDavis.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "6ce283b7d74b",
-   "title": "ANDREA POLINELLI QUARTET",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-17T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/andrea-polinelli-quartet-gato-barbieri-reloaded/",
-   "end": "2026-11-18T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_Polinelli.webp",
    "source": "Blue Note SP"
   },
   {
@@ -129,6 +117,18 @@
    "url": "https://bluenotesp.com/shows/tributo-simply-red-christopher-cross/",
    "end": "2026-11-19T21:30:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/09/08-Site-Blue-Note-SP-400x480px_Mark.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "4b84af08f577",
+   "title": "ANDRÉ FRATESCHI E PIERO DAMIANI",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-19T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/andre-frateschi-e-piero-damiani-lado-bowie/",
+   "end": "2026-11-20T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_LadoBowie.webp",
    "source": "Blue Note SP"
   },
   {
@@ -462,11 +462,11 @@
    "notime": true
   },
   {
-   "id": "e255c78cfd17",
+   "id": "8af1faf02ffb",
    "title": "Mauricio Manieri Classics",
    "category": "Show",
    "venue": "Espaço Unimed",
-   "start": "2026-12-06T18:00:00-03:00",
+   "start": "2026-12-06T20:00:00-03:00",
    "price": null,
    "url": "https://www.ticket360.com.br/evento/33543/ingressos-para-mauricio-manieri-classics-tour-inesquecivel",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/EU_MINI_MM.26.webp",
