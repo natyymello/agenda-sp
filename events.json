@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T21:28:37.749190+00:00",
+ "updated": "2026-11-16T10:33:35.480511+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,40 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "03ab712099e3",
-   "title": "Gabriel & Shirley",
-   "category": "Show",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-15T17:00:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/gabriel-e-shirley-tokio-marine-hall?utm_source=site&utm_medium=site_TMH&utm_campaign=GabrielShirley",
-   "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/01/destaque_st_Gab_Shir.jpg",
-   "source": "Tokio Marine Hall"
-  },
-  {
-   "id": "d6e5d3e127d4",
-   "title": "PULP FICTION SOUNDTRACK POR FRÃ FINAMORE",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-15T19:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/pulp-fiction-soundtrack-por-fra-finamore/",
-   "end": "2026-11-15T20:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_PulpFiction.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17k4Gt",
-   "title": "Gabriel e Shirley - Tokio Marine Hall",
-   "category": "Teatro",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-15T20:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/gabriel-e-shirley-tokio-marine-hall",
-   "image": "https://s1.ticketm.net/dam/c/8e8/89409e3a-57d3-450d-be32-d5ab4a7538e8_106501_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "654c814fb269",
@@ -152,6 +118,18 @@
    "image": null,
    "source": "Theatro Municipal SP",
    "notime": true
+  },
+  {
+   "id": "5a9dc5fceaf5",
+   "title": "TRIBUTO SIMPLY RED &#038; CHRISTOPHER CROSS",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-19T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/tributo-simply-red-christopher-cross/",
+   "end": "2026-11-19T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/08-Site-Blue-Note-SP-400x480px_Mark.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17ap1d",
