@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:53:41.064022+00:00",
+ "updated": "2026-11-17T21:43:34.226858+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -583,6 +583,30 @@
    "url": "https://www.espacounimed.com.br/show/livinho/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/Miniatura_livinho_2026.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "42df4ec5e03d",
+   "title": "Gaby Amarantos",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-16T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130085",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/GABY-AMARANTOS_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
+   "id": "f210cba556d0",
+   "title": "Ilú Obá de Min part. MC Tha",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-17T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130032/d/428000",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/ILU-OBA-DE-MIN_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
   },
   {
    "id": "5a76bd588ae4",
