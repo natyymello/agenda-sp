@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:43:34.226858+00:00",
+ "updated": "2026-11-18T09:52:12.981415+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,29 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "654c814fb269",
-   "title": "TRIBUTO A MILES DAVIS &#8211; BITCHES BREW",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-17T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/tributo-a-miles-davis-bitches-brew-musicman-jazz/",
-   "end": "2026-11-17T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/06/Show_NOV17_TributoMilesDavis.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17adCe",
-   "title": "Diogo Portugal | The Cavern Club",
-   "category": "Stand-up",
-   "venue": "The Cavern Club",
-   "start": "2026-11-17T23:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/diogo-portugal-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/a/20d/9da9f015-b535-4af5-ad8f-61fc19af520d_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "4f0d3ab941bc",
@@ -164,6 +141,18 @@
    "url": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
    "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "4670febec22a",
+   "title": "BANDA BLACK RIO",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-20T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/banda-black-rio-2/",
+   "end": "2026-11-20T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_BlackRio.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17aA0o",
