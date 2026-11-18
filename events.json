@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:52:12.981415+00:00",
+ "updated": "2026-11-18T21:44:25.693287+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -664,6 +664,18 @@
    "source": "Espaço Unimed"
   },
   {
+   "id": "ba605af39129",
+   "title": "Fundo de Quintal",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-30T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130047/d/428044",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/FUNDO-DE-QUINTAL_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
    "id": "ac5002067e9b",
    "title": "The Jacksons",
    "category": "Show",
@@ -706,6 +718,17 @@
    "url": "https://www.ticketmaster.com.br/event/venda-geral-foo-fighters-sao-paulo",
    "image": "https://s1.ticketm.net/dam/a/bc0/8341ed56-92be-4c3a-a4d2-7f1e76f09bc0_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "a8ebc0052c92",
+   "title": "Fábio Jr.",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-02-27T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticket360.com.br/evento/34501/ingressos-para-fabio-jr",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/EU_MINI_FabioJr_27.webp",
+   "source": "Espaço Unimed"
   },
   {
    "id": "6d695d4d3e79",
@@ -783,6 +806,17 @@
    "url": "https://www.ticketmaster.com.br/event/calema-tokio-marine-hall?utm_source=Site_TMH&utm_campaign=Calema",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/10/destaque_st_calema.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "fdd43f0dbc5d",
+   "title": "Pitty",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-03-13T22:30:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/pitty-3/",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/EU_MINI_Pitty_27.webp",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17kKvo",
