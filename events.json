@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:55:02.572810+00:00",
+ "updated": "2026-11-19T21:41:28.669838+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,30 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "0ca939e76264",
-   "title": "Quarteto de Cordas no Festival Britten",
-   "category": "Música",
-   "venue": "Outros",
-   "start": "2026-11-19T12:00:00-03:00",
-   "price": "Grátis",
-   "url": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-na-biblioteca-brasiliana-guita-e-jose-mindlin-usp/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
-   "id": "819b1793a4a6",
-   "title": "Festival Ecos Latinoamericanos: Misa Criolla, Coral Paulistano e Indiana Nomma",
-   "category": "Música",
-   "venue": "Outros",
-   "start": "2026-11-19T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/festival-ecos-latinoamericanos-misa-criolla-coral-paulistano-e-indiana-nomma/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
   },
   {
    "id": "5a9dc5fceaf5",
@@ -698,6 +674,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "0928dafa21cf",
+   "title": "Zimbra",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-02-26T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130406",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/ZIMBRA_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
    "id": "a8ebc0052c92",
    "title": "Fábio Jr.",
    "category": "Show",
@@ -808,6 +796,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "3864c6658a3f",
+   "title": "Bailão da Mart’nália",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-03-20T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130419/d/429977",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/BAILAO-DA-MARTNALIA_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
    "id": "ZFIMVHtnMZ17kKv3",
    "title": "Lollapalooza Brasil 2027",
    "category": "Show",
@@ -896,6 +896,17 @@
    "source": "Espaço Unimed"
   },
   {
+   "id": "37cbe82cb9fa",
+   "title": "Rick Wakeman",
+   "category": "Show",
+   "venue": "Tokio Marine Hall",
+   "start": "2027-04-15T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/rick-wakeman-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=RickWakeman",
+   "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/11/destaque_st_RWK.jpg",
+   "source": "Tokio Marine Hall"
+  },
+  {
    "id": "aa0e4b56c0f7",
    "title": "Till Lindemann",
    "category": "Show",
@@ -904,6 +915,17 @@
    "price": null,
    "url": "https://www.ticketmaster.com.br/event/till-lindemann",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/11/destaque_st_Lindemann.jpg",
+   "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "a3baf1e89d4c",
+   "title": "Corde Vita",
+   "category": "Show",
+   "venue": "Tokio Marine Hall",
+   "start": "2027-04-17T21:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/corde-vita-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=CordeVita",
+   "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/11/destaque_st_cordevita.jpg",
    "source": "Tokio Marine Hall"
   },
   {
