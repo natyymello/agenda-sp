@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:44:25.693287+00:00",
+ "updated": "2026-11-19T09:55:02.572810+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,52 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "4f0d3ab941bc",
-   "title": "ROLLING STONE SESSIONS APRESENTA: HURRICANES",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-18T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/rolling-stone-sessions-apresenta-hurricanes/",
-   "end": "2026-11-18T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Hurricanes-1.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ad4741deb824",
-   "title": "Ca7riel & Paco Amoroso",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-18T21:00:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/03/Miniatura_ca7riel.26.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "9a168940bd7a",
-   "title": "MARCELO RUBENS PAIVA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-18T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/marcelo-rubens-paiva/",
-   "end": "2026-11-19T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Rubens.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17kKFI",
-   "title": "CA7RIEL & Paco Amoroso: Free Spirits World Tour - São Paulo",
-   "category": "Show",
-   "venue": "Espaço Unimed -  AVCB nº774465-Alvará de Funcionamento 2024/05734-00",
-   "start": "2026-11-19T00:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/venda-geral-ca7riel-e-paco-amoroso-sao-paulo",
-   "image": "https://s1.ticketm.net/dam/a/6e5/ce33d894-56be-4c01-aa83-5bea7ddd46e5_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "0ca939e76264",
@@ -155,6 +109,18 @@
    "source": "Blue Note SP"
   },
   {
+   "id": "2156f32b739e",
+   "title": "HÉLIO RAMALHO &#038; NESSA ONDA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-20T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/helio-ramalho-e-nessa-onda/",
+   "end": "2026-11-21T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_CaboVerde.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17aA0o",
    "title": "14 Bis | The Cavern Club",
    "category": "Show",
@@ -187,6 +153,18 @@
    "url": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
    "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "11632d3558bc",
+   "title": "THEO BIAL",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-21T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/theo-bial/",
+   "end": "2026-11-21T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Theo.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "b949b7aa6f44",
