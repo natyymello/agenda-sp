@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:41:28.669838+00:00",
+ "updated": "2026-11-20T09:51:59.292754+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,41 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "5a9dc5fceaf5",
-   "title": "TRIBUTO SIMPLY RED &#038; CHRISTOPHER CROSS",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-19T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/tributo-simply-red-christopher-cross/",
-   "end": "2026-11-19T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/08-Site-Blue-Note-SP-400x480px_Mark.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "4b84af08f577",
-   "title": "ANDRÉ FRATESCHI E PIERO DAMIANI",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-19T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/andre-frateschi-e-piero-damiani-lado-bowie/",
-   "end": "2026-11-20T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_LadoBowie.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17ap1d",
-   "title": "14 Bis | Data Extra | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-20T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/14-bis-data-extra-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "851df1e01e8a",
@@ -143,6 +108,18 @@
    "source": "Blue Note SP"
   },
   {
+   "id": "d87091de7ba6",
+   "title": "QUEEN LEGEND",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-21T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/queen-legend/",
+   "end": "2026-11-21T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Queen.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "b949b7aa6f44",
    "title": "Caetano Veloso",
    "category": "Show",
@@ -152,6 +129,18 @@
    "url": "https://www.espacounimed.com.br/show/caetano-veloso/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/EU_MINI_Caetano.26.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "07b9b0721bcb",
+   "title": "PHIL COLLINS CARROSSEL",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-21T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/phil-collins-carrossel/",
+   "end": "2026-11-22T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_PhilCollins.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17aA08",
@@ -416,6 +405,18 @@
    "source": "Espaço Unimed"
   },
   {
+   "id": "6fa048b6199d",
+   "title": "Movimento Imprevisto: Dança e cordas",
+   "category": "Música",
+   "venue": "Praça das Artes",
+   "start": "2026-12-10T12:00:00-03:00",
+   "price": "Grátis",
+   "url": "https://theatromunicipal.org.br/eventos/movimento-imprevisto-dialogo-entre-danca-e-cordas/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true
+  },
+  {
    "id": "972eb2f536e5",
    "title": "FBC",
    "category": "Show",
@@ -426,6 +427,19 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/FBC_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "544422c72aa4",
+   "title": "Tarsila, a brasileira",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-12-12T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/tarsila-a-brasileira/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2026-12-13T12:00:00-03:00"
   },
   {
    "id": "ZFIMVHtnMZ17FoA8",
