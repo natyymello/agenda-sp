@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:41:26.227995+00:00",
+ "updated": "2026-11-21T21:31:00.695924+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,29 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "5ec8e7f2f23d",
-   "title": "Cordel do Fogo Encantado",
-   "category": "Show",
-   "venue": "Casa Natura Musical",
-   "start": "2026-11-21T12:00:00-03:00",
-   "price": null,
-   "url": "https://bileto.sympla.com.br/event/125583/d/407784",
-   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/08/CFE-site-miniatura-1024x1024.png",
-   "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "ZFIMVHtnMZ17FI73",
-   "title": "Best Of Blues And Rock",
-   "category": "Show",
-   "venue": "Auditório do Ibirapuera (Platéia Externa)",
-   "start": "2026-11-21T18:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
-   "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "11632d3558bc",
