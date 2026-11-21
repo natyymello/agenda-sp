@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:39:13.220440+00:00",
+ "updated": "2026-11-21T09:41:26.227995+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,41 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "4670febec22a",
-   "title": "BANDA BLACK RIO",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-20T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/banda-black-rio-2/",
-   "end": "2026-11-20T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_BlackRio.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "2156f32b739e",
-   "title": "HÉLIO RAMALHO &#038; NESSA ONDA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-20T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/helio-ramalho-e-nessa-onda/",
-   "end": "2026-11-21T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_CaboVerde.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17aA0o",
-   "title": "14 Bis | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-21T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/14-bis-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "5ec8e7f2f23d",
@@ -142,6 +107,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "1b839f9aed03",
+   "title": "UNDERCURRENT TRIO &#038; SUZAN VENEMAN",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-22T19:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/undercurrent-trio-suzan-veneman/",
+   "end": "2026-11-22T20:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Under.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "0f7662464988",
    "title": "New Order",
    "category": "Show",
@@ -186,6 +163,18 @@
    "image": null,
    "source": "Theatro Municipal SP",
    "notime": true
+  },
+  {
+   "id": "86c1f5815a4f",
+   "title": "VITORIA MALDONADO",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-24T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/vitoria-maldonado/",
+   "end": "2026-11-24T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Vitoria.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "52c03386464e",
