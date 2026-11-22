@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:31:00.695924+00:00",
+ "updated": "2026-11-22T09:40:58.370355+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,64 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "11632d3558bc",
-   "title": "THEO BIAL",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-21T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/theo-bial/",
-   "end": "2026-11-21T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Theo.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "d87091de7ba6",
-   "title": "QUEEN LEGEND",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-21T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/queen-legend/",
-   "end": "2026-11-21T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Queen.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "b949b7aa6f44",
-   "title": "Caetano Veloso",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-21T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/caetano-veloso/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/EU_MINI_Caetano.26.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "07b9b0721bcb",
-   "title": "PHIL COLLINS CARROSSEL",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-21T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/phil-collins-carrossel/",
-   "end": "2026-11-22T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_PhilCollins.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17aA08",
-   "title": "Lets Groove | The Cavern Club",
-   "category": "Show",
-   "venue": "The Cavern Club",
-   "start": "2026-11-22T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/lets-groove-the-cavern-club",
-   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "ZFIMVHtnMZ17FI7K",
@@ -154,6 +96,18 @@
    "source": "Blue Note SP"
   },
   {
+   "id": "c5df141de81b",
+   "title": "MEL LISBOA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-25T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/mel-lisboa/",
+   "end": "2026-11-25T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lisboa-1.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "52c03386464e",
    "title": "New Order",
    "category": "Show",
@@ -163,6 +117,18 @@
    "url": "https://www.ticketmaster.com.br/event/new-order",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/EU_MINI_NewOrder.26.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "42788bc9aa21",
+   "title": "MEL LISBOA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-25T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/mel-lisboa/",
+   "end": "2026-11-26T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lisboa-1.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17FJC_",
@@ -186,6 +152,30 @@
    "image": null,
    "source": "Theatro Municipal SP",
    "notime": true
+  },
+  {
+   "id": "ff680b345bb9",
+   "title": "CRUA: JALOO ACÚSTICA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-26T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/crua-jaloo-acustica/",
+   "end": "2026-11-26T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/08-Site-Blue-Note-SP-400x480px_JalooCrua.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "993be874ff15",
+   "title": "BANDA COMITATUS",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-26T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/banda-comitatus/",
+   "end": "2026-11-27T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Comitatus.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "69e38db76c69",
