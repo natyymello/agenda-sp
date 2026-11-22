@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:40:58.370355+00:00",
+ "updated": "2026-11-22T21:34:59.372262+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,17 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "ZFIMVHtnMZ17FI7K",
-   "title": "Best Of Blues And Rock",
-   "category": "Show",
-   "venue": "Auditório do Ibirapuera (Platéia Externa)",
-   "start": "2026-11-22T18:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock",
-   "image": "https://s1.ticketm.net/dam/c/7be/4e1e9428-29ec-401f-aa45-f1577614b7be_105421_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "1b839f9aed03",
