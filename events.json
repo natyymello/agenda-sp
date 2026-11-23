@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:34:59.372262+00:00",
+ "updated": "2026-11-23T10:05:26.929251+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,18 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "1b839f9aed03",
-   "title": "UNDERCURRENT TRIO &#038; SUZAN VENEMAN",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-22T19:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/undercurrent-trio-suzan-veneman/",
-   "end": "2026-11-22T20:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Under.webp",
-   "source": "Blue Note SP"
   },
   {
    "id": "0f7662464988",
@@ -180,6 +168,18 @@
    "end": "2026-12-06T12:00:00-03:00"
   },
   {
+   "id": "1e60254a585a",
+   "title": "GEORGE ISRAEL (KID ABELHA), HENRIQUE PORTUGAL (SKANK) E CHARLES GAVIN (TITÃS)",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-27T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/",
+   "end": "2026-11-27T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_POP3.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "b94b3ec5adb1",
    "title": "Fagner",
    "category": "Show",
@@ -189,6 +189,18 @@
    "url": "https://www.ticketmaster.com.br/event/fagner-tokio-marine-hall?utm_source=Site_TMH&utm_campaign=Fagner",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/07/destaque_st_Fagner.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "58bde45db44c",
+   "title": "GEORGE ISRAEL (KID ABELHA), HENRIQUE PORTUGAL (SKANK) E CHARLES GAVIN (TITÃS)",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-27T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/",
+   "end": "2026-11-28T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_POP3.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17Fg7v",
