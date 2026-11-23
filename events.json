@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:05:26.929251+00:00",
+ "updated": "2026-11-23T21:44:13.610016+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -119,8 +119,8 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "2f71b763721c",
-   "title": "Quarteto de Cordas – Diálogos: Price, Brahms e Dvořák",
+   "id": "2d155c72d177",
+   "title": "Quarteto de Cordas – Diálogos: Price, Britten e Dvořák",
    "category": "Música",
    "venue": "Praça das Artes",
    "start": "2026-11-26T12:00:00-03:00",
@@ -500,6 +500,17 @@
    "notime": true
   },
   {
+   "id": "f1780e85d1b3",
+   "title": "Bloco do Silva",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-01-17T18:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/bloco-do-silva/",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/EU_MINI_BlocodoSilva_27.webp",
+   "source": "Espaço Unimed"
+  },
+  {
    "id": "5a76bd588ae4",
    "title": "Gravação de DVD Rick & Renner Pra Sempre",
    "category": "Show",
@@ -542,6 +553,18 @@
    "url": "https://www.ticketmaster.com.br/event/vg-freya-skye",
    "image": "https://s1.ticketm.net/dam/a/bd1/4bf9a435-fa2b-4157-a4c9-add083e81bd1_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "a6e7eb416a9f",
+   "title": "Majis",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-28T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130087",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/MAJIS_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17a3QK",
