@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:58:35.741587+00:00",
+ "updated": "2026-11-24T21:49:19.972855+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,30 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "f4394cf9cf51",
-   "title": "La Bomba de Tiempo (ARG)",
-   "category": "Show",
-   "venue": "Casa Natura Musical",
-   "start": "2026-11-24T12:00:00-03:00",
-   "price": null,
-   "url": "https://bileto.sympla.com.br/event/123217/d/397036",
-   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/06/LA-BOMBA-DE-TIEMPO_site-miniatura-1024x1024.jpg",
-   "source": "Casa Natura Musical",
-   "notime": true
-  },
-  {
-   "id": "6749a8ebdc27",
-   "title": "24/11/2026",
-   "category": "Teatro",
-   "venue": "Outros",
-   "start": "2026-11-24T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/categorias-eventos/concertos/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
   },
   {
    "id": "86c1f5815a4f",
@@ -282,6 +258,17 @@
    "notime": true
   },
   {
+   "id": "ZFIMVHtnMZ17abFd",
+   "title": "Hey Jude: Especial Revolver Na Íntegra | The Cavern Club",
+   "category": "Show",
+   "venue": "The Cavern Club",
+   "start": "2026-12-05T00:30:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/hey-jude-especial-revolver-na-integra-the-cavern-club",
+   "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
+  },
+  {
    "id": "2807b872d2e2",
    "title": "Puro Suco",
    "category": "Show",
@@ -354,6 +341,17 @@
    "end": "2026-12-13T12:00:00-03:00"
   },
   {
+   "id": "ZFIMVHtnMZ17Ft7z",
+   "title": "SLS Super Crown 2026 Apresentado pela BB Seguros | São Paulo",
+   "category": "Outros",
+   "venue": "Ginásio do Ibirapuera",
+   "start": "2026-12-12T12:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/sls-supercrown-2026",
+   "image": "https://s1.ticketm.net/dam/c/25d/09139288-a226-487d-a98d-6136663e325d_106551_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17FoA8",
    "title": "Djavan: 50 Anos Só Sucessos - São Paulo",
    "category": "Música",
@@ -375,6 +373,17 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/VANESSA-MORENO_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "ZFIMVHtnMZ17ak7N",
+   "title": "SLS Super Crown 2026 Apresentado pela BB Seguros | São Paulo",
+   "category": "Outros",
+   "venue": "Ginásio do Ibirapuera",
+   "start": "2026-12-13T12:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/sls-supercrown-2026",
+   "image": "https://s1.ticketm.net/dam/c/25d/09139288-a226-487d-a98d-6136663e325d_106551_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
   },
   {
    "id": "2b9394309906",
@@ -407,6 +416,17 @@
    "price": null,
    "url": "https://www.ticketmaster.com.br/event/ozzmosis-the-cavern-club",
    "image": "https://s1.ticketm.net/dam/a/fe2/4dea843f-9d27-42d1-a4c7-4124cc69cfe2_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
+  },
+  {
+   "id": "ZFIMVHtnMZ17aKuf",
+   "title": "Jota Quest: Segue o Baile | São Paulo",
+   "category": "Show",
+   "venue": "Suhai Music Hall",
+   "start": "2026-12-20T00:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/jota-quest-sao-paulo",
+   "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
    "source": "Ticketmaster SP"
   },
   {
@@ -478,11 +498,11 @@
    "notime": true
   },
   {
-   "id": "f1780e85d1b3",
+   "id": "3fc773e182a2",
    "title": "Bloco do Silva",
    "category": "Show",
    "venue": "Espaço Unimed",
-   "start": "2027-01-17T18:00:00-03:00",
+   "start": "2027-01-17T19:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/bloco-do-silva/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/EU_MINI_BlocodoSilva_27.webp",
@@ -509,6 +529,29 @@
    "url": "https://www.espacounimed.com.br/show/baco-exu-do-blues-4/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Baco_27.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "a3bee142b8a3",
+   "title": "Confraria do Pasmado",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-23T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130493/d/430137",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/CONFRARIA-DO-PASMADO_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
+   "id": "ZFIMVHtnMZ17apkZ",
+   "title": "Saint Levant | São Paulo",
+   "category": "Show",
+   "venue": "Cine Joia",
+   "start": "2027-01-24T23:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/saint-levant",
+   "image": "https://s1.ticketm.net/dam/a/130/06ba4e22-a1ba-4046-b822-f55c0e34f130_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
   },
   {
    "id": "11d05ea994fb",
@@ -588,6 +631,18 @@
    "url": "https://www.espacounimed.com.br/show/the-jacksons/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/10/EU_MINI_Jackson_26.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "5055f5a6cec8",
+   "title": "Rodrigo Alarcon apresenta Bloco do Desamor",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-31T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130673/d/430924",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/RODRIGO-ALARCON_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17apqz",
@@ -734,6 +789,17 @@
    "source": "Espaço Unimed"
   },
   {
+   "id": "ZFIMVHtnMZ17abFk",
+   "title": "Calema | Tokio Marine Hall",
+   "category": "Show",
+   "venue": "Tokio Marine Hall",
+   "start": "2027-03-14T00:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/calema-tokio-marine-hall",
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17kKvo",
    "title": "Lollapalooza Brasil 2027",
    "category": "Show",
@@ -834,6 +900,17 @@
    "source": "Tokio Marine Hall"
   },
   {
+   "id": "ZFIMVHtnMZ17af_P",
+   "title": "Ana Gabriel | São Paulo",
+   "category": "Show",
+   "venue": "Tokio Marine Hall",
+   "start": "2027-04-11T00:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/ana-gabriel-sao-paulo",
+   "image": "https://s1.ticketm.net/dam/a/b74/d277f911-78a0-44d1-a333-974805054b74_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
+  },
+  {
    "id": "2d8ea49b20be",
    "title": "Slash",
    "category": "Show",
@@ -865,6 +942,17 @@
    "url": "https://www.ticketmaster.com.br/event/till-lindemann",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/11/destaque_st_Lindemann.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "ZFIMVHtnMZ17aOC7",
+   "title": "Till Lindemann | São Paulo",
+   "category": "Show",
+   "venue": "Tokio Marine Hall",
+   "start": "2027-04-17T00:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/vg-till-lindemann",
+   "image": "https://s1.ticketm.net/dam/a/e81/24a9ca15-4546-40e6-b74f-5cc43c003e81_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
   },
   {
    "id": "a3baf1e89d4c",
@@ -909,6 +997,17 @@
    "url": "https://www.ticketmaster.com.br/event/tarja-tokio-marine-hall?utm_source=SITE_TMH&utm_campaign=Tarja",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/09/destaque_st_tarja-1.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "ZFIMVHtnMZ17aO_4",
+   "title": "Capital Inicial | São Paulo",
+   "category": "Show",
+   "venue": "Allianz Parque",
+   "start": "2027-06-06T00:00:00Z",
+   "price": null,
+   "url": "https://www.ticketmaster.com.br/event/vg-capital-inicial",
+   "image": "https://s1.ticketm.net/dam/a/d64/4ac77bd9-91c9-4775-98e1-278306c6ad64_CUSTOM.jpg",
+   "source": "Ticketmaster SP"
   },
   {
    "id": "ZFIMVHtnMZ17Ft06",
