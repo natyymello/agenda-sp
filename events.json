@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:44:13.610016+00:00",
+ "updated": "2026-11-24T09:58:35.741587+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,28 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "0f7662464988",
-   "title": "New Order",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-23T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/new-order-2/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/EU_MINI_NewOrder.26.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "ZFIMVHtnMZ17FyjO",
-   "title": "New Order | São Paulo (Data Extra)",
-   "category": "Show",
-   "venue": "Espaço Unimed -  AVCB nº774465-Alvará de Funcionamento 2024/05734-00",
-   "start": "2026-11-24T01:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/new-order-data-extra",
-   "image": "https://s1.ticketm.net/dam/a/a6b/182bb789-0627-430d-8cc2-95a3c3224a6b_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "f4394cf9cf51",
