@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:01:57.101664+00:00",
+ "updated": "2026-11-25T21:49:47.550082+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -408,13 +408,13 @@
    "source": "Ticketmaster SP"
   },
   {
-   "id": "a1859fd5e701",
-   "title": "Noite de Festa",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-12-18T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/concerto-noite-de-festa/",
+   "id": "7fb168dffb87",
+   "title": "Balé da Cidade no CCSP – Adeus, deus",
+   "category": "Dança",
+   "venue": "Outros",
+   "start": "2026-12-17T12:00:00-03:00",
+   "price": "Grátis",
+   "url": "https://theatromunicipal.org.br/eventos/bale-da-cidade-no-ccsp-adeus-deus/",
    "image": null,
    "source": "Theatro Municipal SP",
    "notime": true,
@@ -522,17 +522,6 @@
    "source": "Espaço Unimed"
   },
   {
-   "id": "5a76bd588ae4",
-   "title": "Gravação de DVD Rick & Renner Pra Sempre",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2027-01-21T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.espacounimed.com.br/show/gravacao-de-dvd-rick-renner-pra-sempre/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_RickRenner_.webp",
-   "source": "Espaço Unimed"
-  },
-  {
    "id": "b2381364c0e5",
    "title": "Baco Exu do Blues",
    "category": "Show",
@@ -552,6 +541,18 @@
    "price": null,
    "url": "https://bileto.sympla.com.br/event/130493/d/430137",
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/CONFRARIA-DO-PASMADO_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
+   "id": "5cf70d3e247f",
+   "title": "Ritaleena",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-24T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130542/d/430291",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/RITALEENA_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
   },
@@ -678,6 +679,18 @@
    "url": "https://www.ticketmaster.com.br/event/venda-geral-karol-g",
    "image": "https://s1.ticketm.net/dam/a/aae/d27e184b-9f69-4963-9027-d3b5572a4aae_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "ffdeeae1707f",
+   "title": "Venere Vai Venus",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-02-19T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130538",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/VENERE-VAI-VENUS_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17Fzb7",
@@ -856,6 +869,17 @@
    "url": "https://www.ticketmaster.com.br/event/lollapaloozabr",
    "image": "https://s1.ticketm.net/dam/a/57a/67cefd34-cd13-49ff-8338-10104309c57a_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "1cae548c9d43",
+   "title": "Gravação de DVD Rick & Renner Pra Sempre",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-03-24T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/gravacao-de-dvd-rick-renner-pra-sempre/",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_RickRenner_.webp",
+   "source": "Espaço Unimed"
   },
   {
    "id": "29270b3d773a",
