@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:49:19.972855+00:00",
+ "updated": "2026-11-25T10:01:57.101664+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,18 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "86c1f5815a4f",
-   "title": "VITORIA MALDONADO",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-24T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/vitoria-maldonado/",
-   "end": "2026-11-24T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Vitoria.webp",
-   "source": "Blue Note SP"
   },
   {
    "id": "c5df141de81b",
@@ -189,6 +177,18 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/LETRUX_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
+  },
+  {
+   "id": "b1643312b302",
+   "title": "FUNK COMO LE GUSTA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-28T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/funk-como-le-gusta/",
+   "end": "2026-11-28T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Funk.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "d58151592b62",
@@ -408,6 +408,19 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "a1859fd5e701",
+   "title": "Noite de Festa",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-12-18T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/concerto-noite-de-festa/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2026-12-19T12:00:00-03:00"
+  },
+  {
    "id": "ZFIMVHtnMZ17afeZ",
    "title": "Ozzmosis | The Cavern Club",
    "category": "Show",
@@ -606,7 +619,7 @@
    "start": "2027-01-29T22:00:00-03:00",
    "price": null,
    "url": "https://www.espacounimed.com.br/show/simone-mendes-2/",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/@DANIIVALVERDEE-SIMONE-INTIMIDADE-12-460x320.webp",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/08/EU_MINI_SIMONEM_27.webp",
    "source": "Espaço Unimed"
   },
   {
