@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:49:47.550082+00:00",
+ "updated": "2026-11-26T09:59:11.782003+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,52 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "c5df141de81b",
-   "title": "MEL LISBOA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-25T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/mel-lisboa/",
-   "end": "2026-11-25T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lisboa-1.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "52c03386464e",
-   "title": "New Order",
-   "category": "Show",
-   "venue": "Espaço Unimed",
-   "start": "2026-11-25T22:00:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/new-order",
-   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/07/EU_MINI_NewOrder.26.webp",
-   "source": "Espaço Unimed"
-  },
-  {
-   "id": "42788bc9aa21",
-   "title": "MEL LISBOA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-25T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/mel-lisboa/",
-   "end": "2026-11-26T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lisboa-1.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17FJC_",
-   "title": "New Order - São Paulo",
-   "category": "Show",
-   "venue": "Espaço Unimed -  AVCB nº774465-Alvará de Funcionamento 2024/05734-00",
-   "start": "2026-11-26T01:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/new-order",
-   "image": "https://s1.ticketm.net/dam/a/a6b/182bb789-0627-430d-8cc2-95a3c3224a6b_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
   },
   {
    "id": "2d155c72d177",
@@ -191,6 +145,18 @@
    "source": "Blue Note SP"
   },
   {
+   "id": "c96b420d8dab",
+   "title": "LOBÃO",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-28T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/lobao/",
+   "end": "2026-11-28T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lobao.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "d58151592b62",
    "title": "Babymetal",
    "category": "Show",
@@ -200,6 +166,18 @@
    "url": "https://www.espacounimed.com.br/show/babymetal/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/04/EU_Miniatura_BabyMetal.26.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "e19222b8d091",
+   "title": "LOBÃO",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-28T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/lobao/",
+   "end": "2026-11-29T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lobao.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17Fgpb",
