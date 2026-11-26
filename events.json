@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:59:11.782003+00:00",
+ "updated": "2026-11-26T21:45:04.618002+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,18 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "2d155c72d177",
-   "title": "Quarteto de Cordas – Diálogos: Price, Britten e Dvořák",
-   "category": "Música",
-   "venue": "Praça das Artes",
-   "start": "2026-11-26T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/quarteto-de-cordas-apresenta-dialogos-price-brahms-e-dvorak/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
   },
   {
    "id": "ff680b345bb9",
@@ -589,6 +577,18 @@
    "url": "https://www.ticketmaster.com.br/event/vg-freya-skye-data-extra",
    "image": "https://s1.ticketm.net/dam/a/bd1/4bf9a435-fa2b-4157-a4c9-add083e81bd1_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "d291185ce0ba",
+   "title": "Bloco Pagu",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-01-29T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130686/d/431019",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/BLOCO-PAGU_site-miniatura-1-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
   },
   {
    "id": "55782687e972",
