@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:45:04.618002+00:00",
+ "updated": "2026-11-27T09:58:13.121823+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -13,30 +13,6 @@
    "source": "Theatro Municipal SP",
    "notime": true,
    "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "ff680b345bb9",
-   "title": "CRUA: JALOO ACÚSTICA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-26T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/crua-jaloo-acustica/",
-   "end": "2026-11-26T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/08-Site-Blue-Note-SP-400x480px_JalooCrua.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "993be874ff15",
-   "title": "BANDA COMITATUS",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-26T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/banda-comitatus/",
-   "end": "2026-11-27T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Comitatus.webp",
-   "source": "Blue Note SP"
   },
   {
    "id": "69e38db76c69",
@@ -121,18 +97,6 @@
    "notime": true
   },
   {
-   "id": "b1643312b302",
-   "title": "FUNK COMO LE GUSTA",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-28T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/funk-como-le-gusta/",
-   "end": "2026-11-28T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Funk.webp",
-   "source": "Blue Note SP"
-  },
-  {
    "id": "c96b420d8dab",
    "title": "LOBÃO",
    "category": "Show",
@@ -142,6 +106,18 @@
    "url": "https://bluenotesp.com/shows/lobao/",
    "end": "2026-11-28T21:30:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lobao.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "b1643312b302",
+   "title": "FUNK COMO LE GUSTA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-28T20:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/funk-como-le-gusta/",
+   "end": "2026-11-28T21:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Funk.webp",
    "source": "Blue Note SP"
   },
   {
@@ -165,6 +141,18 @@
    "url": "https://bluenotesp.com/shows/lobao/",
    "end": "2026-11-29T00:00:00-03:00",
    "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Lobao.webp",
+   "source": "Blue Note SP"
+  },
+  {
+   "id": "75b94bad9e36",
+   "title": "RODRIGO OGI E BANDA",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-28T22:30:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/rodrigo-ogi-e-banda/",
+   "end": "2026-11-29T00:00:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/10/08-Site-Blue-Note-SP-400x480px_Ogi.webp",
    "source": "Blue Note SP"
   },
   {
@@ -199,6 +187,18 @@
    "url": "https://www.espacounimed.com.br/show/reggae-live-station-4/",
    "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/06/460x320.webp",
    "source": "Espaço Unimed"
+  },
+  {
+   "id": "8cf075d0057b",
+   "title": "PEARL JAM",
+   "category": "Show",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-11-29T19:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/pearl-jam/",
+   "end": "2026-11-29T20:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_PEARL-JAM.webp",
+   "source": "Blue Note SP"
   },
   {
    "id": "ZFIMVHtnMZ17FMQv",
@@ -381,6 +381,19 @@
    "start": "2026-12-17T12:00:00-03:00",
    "price": "Grátis",
    "url": "https://theatromunicipal.org.br/eventos/bale-da-cidade-no-ccsp-adeus-deus/",
+   "image": null,
+   "source": "Theatro Municipal SP",
+   "notime": true,
+   "end": "2026-12-19T12:00:00-03:00"
+  },
+  {
+   "id": "a1859fd5e701",
+   "title": "Noite de Festa",
+   "category": "Música",
+   "venue": "Theatro Municipal",
+   "start": "2026-12-18T12:00:00-03:00",
+   "price": null,
+   "url": "https://theatromunicipal.org.br/eventos/concerto-noite-de-festa/",
    "image": null,
    "source": "Theatro Municipal SP",
    "notime": true,
