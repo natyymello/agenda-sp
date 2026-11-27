@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:58:13.121823+00:00",
+ "updated": "2026-11-27T21:48:04.026642+00:00",
  "events": [
   {
    "id": "10f601a135eb",
@@ -661,6 +661,18 @@
    "source": "Ticketmaster SP"
   },
   {
+   "id": "d364713db1e7",
+   "title": "Baile do Magal",
+   "category": "Show",
+   "venue": "Casa Natura Musical",
+   "start": "2027-02-05T12:00:00-03:00",
+   "price": null,
+   "url": "https://bileto.sympla.com.br/event/130845/d/431655",
+   "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/11/BAILE-DO-MAGAL_site-miniatura-1024x1024.jpg",
+   "source": "Casa Natura Musical",
+   "notime": true
+  },
+  {
    "id": "ZFIMVHtnMZ17FACe",
    "title": "KAROL G: Viajando Por El Mundo Tropitour",
    "category": "Show",
@@ -760,6 +772,17 @@
    "url": "https://www.ticketmaster.com.br/event/oswaldo-montenegro-tokio-marine-hall",
    "image": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_CUSTOM.jpg",
    "source": "Ticketmaster SP"
+  },
+  {
+   "id": "38e51f085132",
+   "title": "Ballet de Kiev",
+   "category": "Dança",
+   "venue": "Espaço Unimed",
+   "start": "2027-03-07T20:00:00-03:00",
+   "price": null,
+   "url": "https://www.ticket360.com.br/evento/34584/ingressos-para-ballet-de-kiev-apresenta-o-lago-dos-cisnes",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_Miniatura_BalletKiev.webp",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17a4r3",
@@ -926,6 +949,17 @@
    "url": "https://www.ticketmaster.com.br/event/ana-gabriel-sao-paulo?utm_source=SITE_TMH&utm_campaign=AnaGabriel",
    "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/10/destaque_st_AnaGabr27.jpg",
    "source": "Tokio Marine Hall"
+  },
+  {
+   "id": "f2020bbadfe1",
+   "title": "Luisa Sonza",
+   "category": "Show",
+   "venue": "Espaço Unimed",
+   "start": "2027-04-10T22:00:00-03:00",
+   "price": null,
+   "url": "https://www.espacounimed.com.br/show/luisa-sonza-2/",
+   "image": "https://www.espacounimed.com.br/wp-content/uploads/2026/11/SITEEU_Miniatura_LuisaSonza27.webp",
+   "source": "Espaço Unimed"
   },
   {
    "id": "ZFIMVHtnMZ17af_P",
