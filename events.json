@@ -1,89 +1,6 @@
 {
- "updated": "2026-11-27T21:48:04.026642+00:00",
+ "updated": "2026-11-28T09:44:54.138037+00:00",
  "events": [
-  {
-   "id": "10f601a135eb",
-   "title": "Exposição “Memórias em Cena: Pérolas de Naum no Municipal”",
-   "category": "Teatro",
-   "venue": "Theatro Municipal",
-   "start": "2026-10-24T12:00:00-03:00",
-   "price": "Grátis",
-   "url": "https://theatromunicipal.org.br/eventos/exposicao-memorias-em-cena-perolas-de-naum-no-municipal/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true,
-   "end": "2027-01-23T12:00:00-03:00"
-  },
-  {
-   "id": "69e38db76c69",
-   "title": "Ópera Os Pescadores de Pérolas, de Georges Bizet",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-11-27T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/opera-os-pescadores-de-perolas-de-georges-bizet/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true,
-   "end": "2026-12-06T12:00:00-03:00"
-  },
-  {
-   "id": "1e60254a585a",
-   "title": "GEORGE ISRAEL (KID ABELHA), HENRIQUE PORTUGAL (SKANK) E CHARLES GAVIN (TITÃS)",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-27T20:00:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/",
-   "end": "2026-11-27T21:30:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_POP3.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "b94b3ec5adb1",
-   "title": "Fagner",
-   "category": "Show",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-27T21:30:00-03:00",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/fagner-tokio-marine-hall?utm_source=Site_TMH&utm_campaign=Fagner",
-   "image": "https://www.tokiomarinehall.com.br/wp-content/uploads/2026/07/destaque_st_Fagner.jpg",
-   "source": "Tokio Marine Hall"
-  },
-  {
-   "id": "58bde45db44c",
-   "title": "GEORGE ISRAEL (KID ABELHA), HENRIQUE PORTUGAL (SKANK) E CHARLES GAVIN (TITÃS)",
-   "category": "Show",
-   "venue": "Blue Note São Paulo",
-   "start": "2026-11-27T22:30:00-03:00",
-   "price": null,
-   "url": "https://bluenotesp.com/shows/pop3-georgeisrael-henriqueportugal-e-charlesgavin/",
-   "end": "2026-11-28T00:00:00-03:00",
-   "image": "https://bluenotesp.com/wp-content/uploads/2026/09/12-Site-Blue-Note-SP-400x480px_POP3.webp",
-   "source": "Blue Note SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17Fg7v",
-   "title": "A Perfect Circle + Puscifer",
-   "category": "Show",
-   "venue": "Suhai Music Hall",
-   "start": "2026-11-28T00:00:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/vg-a-perfect-circle-puscifer",
-   "image": "https://s1.ticketm.net/dam/a/088/369098c4-977e-4c8b-9d36-a94735fd6088_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
-  },
-  {
-   "id": "ZFIMVHtnMZ17Fgq6",
-   "title": "Fagner | Tokio Marine Hall",
-   "category": "Show",
-   "venue": "Tokio Marine Hall",
-   "start": "2026-11-28T00:30:00Z",
-   "price": null,
-   "url": "https://www.ticketmaster.com.br/event/fagner-tokio-marine-hall",
-   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_CUSTOM.jpg",
-   "source": "Ticketmaster SP"
-  },
   {
    "id": "32d93d353bd9",
    "title": "Letrux",
@@ -201,6 +118,18 @@
    "source": "Blue Note SP"
   },
   {
+   "id": "f9dde509b946",
+   "title": "SÓ PEDRADA MUSICAL &#8211; SIM SP",
+   "category": "Teatro",
+   "venue": "Blue Note São Paulo",
+   "start": "2026-12-02T21:00:00-03:00",
+   "price": null,
+   "url": "https://bluenotesp.com/shows/so-pedrada-musical-sim-sp/",
+   "end": "2026-12-02T22:30:00-03:00",
+   "image": "https://bluenotesp.com/wp-content/uploads/2026/11/08-Site-Blue-Note-SP-400x480px_Pedrada.webp",
+   "source": "Blue Note SP"
+  },
+  {
    "id": "ZFIMVHtnMZ17FMQv",
    "title": "Daniel Caesar: Son Of Spergy Tour",
    "category": "Show",
@@ -210,18 +139,6 @@
    "url": "https://www.ticketmaster.com.br/event/daniel-caesar",
    "image": "https://s1.ticketm.net/dam/a/12f/b96760a8-2d4d-4e0b-88ca-21bf2be8b12f_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "6e5b0a658f20",
-   "title": "Natività Del Signore",
-   "category": "Música",
-   "venue": "Praça das Artes",
-   "start": "2026-12-03T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/concerto-nativita-del-signore/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
   },
   {
    "id": "ZFIMVHtnMZ17abFd",
@@ -270,18 +187,6 @@
    "source": "Espaço Unimed"
   },
   {
-   "id": "6fa048b6199d",
-   "title": "Movimento Imprevisto: Dança e cordas",
-   "category": "Música",
-   "venue": "Praça das Artes",
-   "start": "2026-12-10T12:00:00-03:00",
-   "price": "Grátis",
-   "url": "https://theatromunicipal.org.br/eventos/movimento-imprevisto-dialogo-entre-danca-e-cordas/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true
-  },
-  {
    "id": "972eb2f536e5",
    "title": "FBC",
    "category": "Show",
@@ -292,19 +197,6 @@
    "image": "https://casanaturamusical.com.br/wp-content/uploads/2026/10/FBC_site-miniatura-1024x1024.jpg",
    "source": "Casa Natura Musical",
    "notime": true
-  },
-  {
-   "id": "544422c72aa4",
-   "title": "Tarsila, a brasileira",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-12-12T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/tarsila-a-brasileira/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true,
-   "end": "2026-12-13T12:00:00-03:00"
   },
   {
    "id": "ZFIMVHtnMZ17Ft7z",
@@ -372,32 +264,6 @@
    "url": "https://www.ticketmaster.com.br/event/pre-venda-bb-djavan-50-anos-so-sucessos-sao-paulo-13",
    "image": "https://s1.ticketm.net/dam/a/52a/ee9889b6-3eaf-4457-93cd-f311c0d6b52a_1802351_CUSTOM.jpg",
    "source": "Ticketmaster SP"
-  },
-  {
-   "id": "7fb168dffb87",
-   "title": "Balé da Cidade no CCSP – Adeus, deus",
-   "category": "Dança",
-   "venue": "Outros",
-   "start": "2026-12-17T12:00:00-03:00",
-   "price": "Grátis",
-   "url": "https://theatromunicipal.org.br/eventos/bale-da-cidade-no-ccsp-adeus-deus/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true,
-   "end": "2026-12-19T12:00:00-03:00"
-  },
-  {
-   "id": "a1859fd5e701",
-   "title": "Noite de Festa",
-   "category": "Música",
-   "venue": "Theatro Municipal",
-   "start": "2026-12-18T12:00:00-03:00",
-   "price": null,
-   "url": "https://theatromunicipal.org.br/eventos/concerto-noite-de-festa/",
-   "image": null,
-   "source": "Theatro Municipal SP",
-   "notime": true,
-   "end": "2026-12-19T12:00:00-03:00"
   },
   {
    "id": "ZFIMVHtnMZ17afeZ",
